@@ -1,10 +1,10 @@
 # 🟠 3. ACT :: I want to complete my learning task or goal efficiently (Use strategies)
 
-### **What are these tools?**
+### What are these tools?
 
 These tools help you  to stay focused on completing the Authentic Professional Task (APT) or any other learning task or specific goal by applying effective learning strategies.
 
-### **Why are these tools useful?**
+### Why are these tools useful?
 
 These tools are useful during the “Act”(=performance) phase of the learning cycle, where the focus is on applying learning strategies, maintaining attention, and completing the task. These tools ensure that you remain on track by providing techniques to stay engaged with the task and promote deep learning.
 

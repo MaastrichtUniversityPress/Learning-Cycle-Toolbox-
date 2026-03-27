@@ -22,6 +22,8 @@ Use these tools regularly throughout the “Act” phase, especially after compl
 
 🟧 [3.4 - Using AI to generate (Progress Test) practice questions](https://msaive.github.io/Learning-Cycle-Toolbox-/main/act_strategies.html#using-ai-to-generate-progress-test-practice-questions)
 
+----------
+
 </br>
 
 
@@ -57,9 +59,9 @@ o To what extent are you  **on track**?
 
 #### **Step 2 – Evaluate: Questions to evaluate actions so far (dig deeper)**
 
-· To debrief learning actions, the STARR interviewing technique can be used:  
+> · To debrief learning actions, the STARR interviewing technique can be used:  
 o (**S=Situation**: What was the context? > Where?/Who?/When?)  
-> This might be less important here, because obvious.  
+This might be less important here, because obvious.  
 o **T=Task**: What were you supposed to do? What was your learning goal / plan?  
 o **A=Action**: What did you actually do? How did this differ (or not) from your plan?  
 o **R=Result**: How did it work? What was the outcome?  

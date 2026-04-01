@@ -12,21 +12,18 @@ These tools are crucial for setting specific learning goals and creating a strat
 
 ### When to use these tools?
 
-The goalsetting tools should be used right after task analysis and before diving into specific learning tasks or activities. These tools are ideal for working within a learning team to derive collective learning goals and a planning for your team meetings, but can also be used individually to find your personal focus points for the upcoming period. These tools can also be revisited throughout the learning process, especially when refining your approach to next focus-APTs or adjusting your learning plan during the “Act” stage.
+The goalsetting tools should be used right after task analysis and before diving into specific learning tasks or activities. These tools are ideal for working within a learning team to derive collective learning goals and a planning for your team meetings, but can also be used individually to find your personal focus points for the upcoming period. These tools can also be revisited throughout the learning process, especially when refining your approach to next focus-APTs or adjusting your learning plan during the “Act” stage. </br><br/>
+
+---
+---
+
+## ⬛ TOOL 2.1.1 - Goalsetting guiding questions
+
+_**Guiding questions to support goalsetting**_
 
 ---
 
-#### **Select a Tool Below:**
-
-_For individual goal-setting and planning:_
-
-# ⬛ 2.1.1 - Goalsetting guiding questions
-
-## **Guiding questions to support goalsetting**
-
-----------
-
-**How to use this tool?**  
+### How to use this tool? 
 This tool can be used within the learning team and/or within 1-on-1 meetings with the LTC and/or for self-study.
 
 **Step 1:**  First debrief the exploration phase, your understanding of the APT and performance objectives (POs). The session chair can review the key points from APT exploration. If you are reviewing individually, check your (group) notes from APT exploration.
@@ -35,11 +32,11 @@ This tool can be used within the learning team and/or within 1-on-1 meetings wit
 
 **Step 3:**  Follow the provided questions to set your personal learning goals. Do not forget to prioritize and create a realistic list.
 
-For SMART learning goals >  [See tool 2.1.2](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-1-2-smart-learning-goals "⬛ 2.1.2 - SMART Learning Goals")
+For SMART learning goals: **See tool 2.1.2**
 
-----------
+---
 
-#### **Step 1: Questions to debrief exploration**
+#### Step 1: Questions to debrief exploration
 
 -   Do you  **understand**  the APT and POs?
     -   What is unclear?
@@ -50,11 +47,11 @@ For SMART learning goals >  [See tool 2.1.2](https://canvas.maastrichtuniversity
     -   What did you know / not know?
     -   How was your contribution, compared to peers?
 
-#### **Step 2: Review your portfolio**
+#### Step 2: Review your portfolio
 
 -   Have a look at your portfolio: Which  **personal learning goals**  do you bring from previous periods? Which overarching learning goals (defined in Substantiated Analysis) are you working on? Can be about  _any_ of the competences, can be large or small
 
-#### **Step 3: Questions to set personal goals**
+#### Step 3: Questions to set personal goals
 
 -   Which  **“gaps”**  did you discover regarding your own knowledge/skills/attitude?
 -   Which aspects/topics spark your  **interest**, enthusiasm? (positive association)
@@ -64,30 +61,31 @@ For SMART learning goals >  [See tool 2.1.2](https://canvas.maastrichtuniversity
     -   From negative association: neglecting or postponing
 -   Which goals are most important? >  **Prioritize**  and create a realistic list
 
-Convert goals to  **SMART action plans**  that can be implemented this period >  [See Tool 2.1.2](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-1-2-smart-learning-goals "⬛ 2.1.2 - SMART Learning Goals")
+Convert goals to  **SMART action plans**  that can be implemented this period: **See Tool 2.1.2**</br><br/>
 
-</br>
+---
+---
 
-# ⬛ 2.1.2 - SMART Learning Goals
+## ⬛ TOOL 2.1.2 - SMART Learning Goals
 
-## **Formulating SMART learning goals for individual learning plan**
+_**Formulating SMART learning goals for your individual learning plan**_
 
-----------
+---
 
-**How to use this tool?**  
+### How to use this tool? 
 This tool can be used within the learning team and/or for self-study in order to formulating SMART learning goals for your individual learning plan.
 
 **Step 1:**  Follow the provided questions to set your personal learning goals as SMART goals.
 
 **Step 2:**  Follow up on your learning goals. Update your progress in EPASS either in the Learning Goal form, or on an experience or competency card, whatever fits best in your portfolio practice.
 
-For examples of SMART learning goals >  [See Tool 2.1.3](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-1-3-examples-smart-learning-goals "⬛ 2.1.3 - Examples SMART Learning Goals")  
-For goal setting guideline >  [See Tool 2.1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-1-1-goalsetting-guiding-questions "⬛ 2.1.1 - Goalsetting guiding questions")  
+For examples of SMART learning goals: **See Tool 2.1.3**
+For goal setting guideline: **See Tool 2.1**
 Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_login.php?configset=ims)
 
-----------
+---
 
-#### **Step 1: From goal to “doable” action plan (SMART)**
+#### Step 1: From goal to “doable” action plan (SMART)
 
 -   **S=Specific**: Make goals and action plans clear and concrete
     -   Exactly  _what_  do you want to achieve? And  _why?_
@@ -103,7 +101,7 @@ Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_log
 -   -   -   Also: is it inspiring / meaningful / challenging to  _you_?
 -   **T=Time-bound**: Set a start date and deadline, and hold yourself accountable to stick to it.
 
-#### **Step 2: Follow up on your learning goals**
+#### Step 2: Follow up on your learning goals
 
 -   Provide  **regular updates**  about the progress of your learning goal in your portfolio. You can do this either in the Learning Goal form, or on an experience or competency card, whatever fits best in your portfolio practice.
     -   Include a decision on how to proceed:
@@ -118,30 +116,31 @@ Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_log
         -   The goal is still relevant to you, but the action plan you first defined  **appears not to work**  out as you hoped for
             -   Keep current learning goal, but in update redefine action plan.
 
-----------
+---
 
 Resource: See also documentation in  [E-PASS](https://my.epass.eu/htdocs/ims_login.php?configset=ims).
 
-Examples:  [See tool 2.1.3](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-1-3-examples-smart-learning-goals "⬛ 2.1.3 - Examples SMART Learning Goals")
+Examples:  **See tool 2.1.3**</br><br/>
 
-</br>
+---
+---
 
-# ⬛ 2.1.3 - Examples SMART Learning Goals
+## ⬛ TOOL 2.1.3 - Examples SMART Learning Goals
 
-## **Not to copy  but to inspire your  _own_ learning goals**
+_**Not to copy but to inspire your own learning goals**_
 
-----------
+---
 
-#### **How to use this tool?**
+### How to use this tool?
 
 This tool is designed to inspire and guide you in creating your own learning goals. Here, you'll find fictitious examples showcasing the SMART criteria in action. Remember, the purpose is not to copy these examples, but rather to use them as inspiration for crafting your own unique and personally relevant learning goals.
 
-For goal setting guide >  [See Tool 2.1.1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-1-1-goalsetting-guiding-questions "⬛ 2.1.1 - Goalsetting guiding questions")  
-For SMART learning goals >  [See Tool 2.1.2](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-1-2-smart-learning-goals "⬛ 2.1.2 - SMART Learning Goals")
+For goal setting guide: **See Tool 2.1.1**  
+For SMART learning goals: **See Tool 2.1.2** 
 
-----------
+---
 
-#### **Example 1: Improve literature search skills for studying learning tasks**
+#### Example 1: Improve literature search skills for studying learning tasks
 
 _This is an example of a well-documented learning goal for a complex skill, with multiple steps._
 
@@ -165,7 +164,7 @@ Step 4: I will ask for feedback from 2 peers and my coach about my references an
 -   **T=Time-bound**: I have set the end of period feedback round as a milestone.
     
 
-#### **Example 2: Type at 60 words per minute**
+#### Example 2: Type at 60 words per minute
 
 _This is an example of a “technical” learning goal with sufficient detail (nonmedical domain)_
 
@@ -180,7 +179,7 @@ _This is an example of a “technical” learning goal with sufficient detail (n
 -   **T=Time-bound**: I want to improve my speed by 5 per month for the next three months (oct-nov-dec).
     
 
-#### **Example 3: Studying discipline X for 4 days a week for 5 weeks**
+#### Example 3: Studying discipline X for 4 days a week for 5 weeks
 
 _This is an example of a study behaviour learning goal_
 
@@ -195,7 +194,7 @@ _This is an example of a study behaviour learning goal_
 -   **T=Time-bound**: This goal will be completed in 5 weeks when the next progress test takes place.
     
 
-#### **Example 4: Improving self-confidence in presenting**
+#### Example 4: Improving self-confidence in presenting
 
 _This is an example of a seemingly less concrete aim._
 
@@ -207,17 +206,18 @@ _This is an example of a seemingly less concrete aim._
     
 -   **R=Realistic / Relevant**: Gaining confidence in presenting is something I need for my professional future and I want to get over my reluctance very much since that feeling is holding me back.
     
--   **T=Time-bound**: The final presentation takes place 2 weeks from now.
+-   **T=Time-bound**: The final presentation takes place 2 weeks from now.</br><br/>
 
-</br>
+---
+---
 
-# ⬛ 2.2.1 - Develop Individual Learning Plan
+# ⬛ TOOL 2.2.1 - Individual Learning Plan
 
-## **Actions and guiding questions to develop an individual learning plan**
+_**Actions and guiding questions to develop an individual learning plan**_
 
-----------
+---
 
-#### **How to use this tool?**
+### How to use this tool?
 
 **Step 1:** At the beginning of the period, before the first learning team meeting, create a global plan for this period. Bring your global plan to the meeting and discuss it with your group.
 
@@ -225,13 +225,12 @@ _This is an example of a seemingly less concrete aim._
 
 **Step 3:**  Review your personal plan and focus on what comes first. You can discuss your individual learning plan within 1-on-1 meetings with the LTC.
 
-For team activities to support individual learning plan >  [See Tool 2.2.2](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-2-team-activities-for-planning "⬛ 2.2.2 - Team Activities for Planning")  
-For examples and practical planning tools (empty schedule) >  [See Tool 2.2.3](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-3-planning-examples-and-tools "⬛ 2.2.3 - Planning Examples and Tools")  
-Resource for planning:  [Study Smart, workbook session 2Links to an external site.](https://www.studysmartpbl.com/student/workbook-werkboek/)  (p. 8 students; p. 25 teachers).
+For team activities to support individual learning plan: **See Tool 2.2.2**  
+For examples and practical planning tools (empty schedule): **See Tool 2.2.3**  
 
-----------
+---
 
-#### **Step 1: Create a global plan for this period**
+#### Step 1: Create a global plan for this period
 
 -   Start with empty 10-week schedule
 -   What are prescheduled  **deadlines and milestones**? > Check Canvas, add to schedule
@@ -245,7 +244,7 @@ Resource for planning:  [Study Smart, workbook session 2Links to an external sit
 -   Map distribution of  **focus-APTs**  over weeks in your schedule
     -   When to work on what (globally)?
 
-#### **Step 2: Personalise learning plan**
+#### Step 2: Personalise learning plan
 
 -   (Get to) know and incorporate your own learning preferences and strategies:
 
@@ -263,7 +262,7 @@ Specify your personal selection of learning tasks and activities > What works be
 -   Add dedicated timeslots to your schedule to work on your  **portfolio**
     -   Do not wait until (beyond) end of period!
 
-#### **Step 3: Refine plan - What will be your first actions?**
+#### Step 3: Refine plan - What will be your first actions?
 
 -   Review your personalised plan and  **zoom in**  on what comes first
     -   To make a start, identify first (few) concrete actions:
@@ -280,60 +279,61 @@ Specify your personal selection of learning tasks and activities > What works be
         -   Are scheduled times realistic?
         -   Add some buffer time to account for setbacks
 
--   Let’s go!  **😊**
+-   Let’s go!😊
 
-----------
+---
 
-Resource for planning:  [Study Smart, workbook session 2](https://www.studysmartpbl.com/student/workbook-werkboek/)  (p. 8 students; p. 25 teachers).
+Resource for planning:  [Study Smart, workbook session 2](https://www.studysmartpbl.com/student/workbook-werkboek/)  (p. 8 students; p. 25 teachers).</br></br>
 
-</br>
+---
+---
 
-# ⬛ 2.2.2 - Team Activities for Planning
+# ⬛ TOOL 2.2.2 - Team Activities for Planning
 
-## **Suggested learning team activities to support (personal) planning**
+_**Suggested learning team activities to support (personal) planning**_
 
+---
 
-----------
+### How to use this tool?
 
-#### **How to use this tool?**
+Before the first learning team meeting of the period when you are developing your individual plan for the period (**see Tool 2.2.1**), think about team activities to support your (personal) planning. Bring your ideas to the meeting and discuss it with your group.
 
-Before the first learning team meeting of the period when you are developing your individual plan for the period ([see Tool 2.2.1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-1-develop-individual-learning-plan "⬛ 2.2.1 - Develop Individual Learning Plan")), think about team activities to support your (personal) planning. Bring your ideas to the meeting and discuss it with your group.
+During the first meeting, follow the suggested team activities to support your personal learning plan. These suggestions are just for inspiration. Be creative! (and additional suggestions are welcome)
 
-During the first meeting, follow the suggested team activities to support your personal learning plan.  These suggestions are just for inspiration. Be creative! (and additional suggestions are welcome)
+For planning guideline: **See Tool 2.2.1** 
+For planning examples and tools: **See Tool 2.2.3**
 
-For planning guideline >  [See Tool 2.2.1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-1-develop-individual-learning-plan "⬛ 2.2.1 - Develop Individual Learning Plan")  
-For planning examples and tools >  [See Tool 2.2.3](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-3-planning-examples-and-tools "⬛ 2.2.3 - Planning Examples and Tools")
+----
 
-----------
-
-#### **Team activities to support development of individual learning plans**
+#### Team activities to support development of individual learning plans
 
 IMPORTANT: Aim is at  **sparring** on  **individual** learning plans, NOT at reaching consensus about 1 collaborative learning plan!  
 · A selection from the questions in tool 3.1 can also be discussed in a group setting.  
 · Intervision on formulating SMART learning goals.  
 · Peer Q&A: “Who knows where/how/….”  
 · Matchmaking / speed dates: “Who can help me with…” “Who wants to do….together”?  
-> Discover common interests, opportunities to help each other in subgroups, “buddies”.
->
-> </br>
+> Discover common interests, opportunities to help each other in subgroups, “buddies”.<br/><br/>
+
+---
+---
 
 # ⬛ 2.2.3 - Planning Examples and Tools
 
-## **Examples, templates and suggested planning tools**
+_**Examples, templates and suggested planning tools**_
 
-----------
+---
 
-#### **How to use this tool?**
+### How to use this tool?
 
 This tool is designed to inspire and guide you in creating your individual learning plan. Here, you'll find planning examples, templates, and some suggested tools.  
 Remember, the purpose is to see and use these examples as inspiration for crafting your own plan.
 
-For planning guideline >  [See Tool 2.2.1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-1-develop-individual-learning-plan "⬛ 2.2.1 - Develop Individual Learning Plan")  
-For supporting team activities > [See Tool 2.2.2](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-2-team-activities-for-planning "⬛ 2.2.2 - Team Activities for Planning")
+For planning guideline: **See Tool 2.2.1**   
+For supporting team activities: **See Tool 2.2.2** 
 
-----------
+---
 
-#### **Planning Templates**
+#### Planning Templates
 
 You can find a basic empty template in the  [Study Smart, workbook session 2](https://www.studysmartpbl.com/student/workbook-werkboek/)  (p. 8 students; p. 25 teachers)
 
@@ -359,13 +359,13 @@ This one is also from Word (search term “planning”). Needs personalisation, 
   <img width="650" height="742" alt="image-35d53a7d-860b-4bf4-ac42-5d7add0c51ef" src="https://github.com/user-attachments/assets/266791ba-aa26-461e-9399-847ea01686ae" />
 
 
-#### **Planning Examples**
+#### Planning Examples
 
 -   You can find a completed example planning in  [Study Smart, workbook session 2](https://www.studysmartpbl.com/student/workbook-werkboek/)  (p. 8 students; p. 25 teachers).  
       
     
 
-#### **Planning Tools**
+#### Planning Tools
 
 You can design and keep track of your planning using:
 
@@ -377,20 +377,22 @@ You can design and keep track of your planning using:
     -   Microsoft Outlook
     -   …
 
-----------
+---
 
 Resource / inspired by:  [de Boer et al. (2021), Perspective-based generic questions as a tool to promote student biology teacher questioning.  _Research in Science Education 51:_1287-1306.](https://doi.org/10.1007/s11165-019-9853-9)
 
-</br>
+<br/><br/>
 
-# ⬛ 2.3 - Make a Team Plan for a Period
+---
+---
 
-## **Actions to develop a team plan for a curriculum period**
+# ⬛ 2.3 - Team Plan for a Period
 
+_**Actions to develop a team plan for a curriculum period**_
 
-----------
+---
 
-#### **How to use this tool?**
+#### How to use this tool?
 
 Learning teams create their own planning for a period. This tool provides directions to get started and how to refine your planning as the period progressed. Some examples of what a planning document may look like, are also given.
 
@@ -400,11 +402,11 @@ Learning teams create their own planning for a period. This tool provides direct
 
 **Step 3:**  Review and refine the plan as you go through the period, for subsequent focus-APTs..
 
-For a guideline to develop your own personal learning plan >  [See Tool 2.2.1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/2-dot-2-1-develop-individual-learning-plan "⬛ 2.2.1 - Develop Individual Learning Plan")
+For a guideline to develop your own personal learning plan: **See Tool 2.2.1**
 
-----------
+---
 
-#### **Step 1: Explore period information and list important dates and events**
+#### Step 1: Explore period information and list important dates and events
 
 **_Before_** _the first learning team_  meeting of the new period, browse the course information on Canvas on your own. Take note of the following details and bring them, to save time during the learning team meeting.
 
@@ -414,7 +416,7 @@ For a guideline to develop your own personal learning plan >  [See Tool 2.2.1](h
 -   When do  **focus-APTs**  start?
 -   When are deadlines to submit questions for  **expert meetings**?
 
-#### **Step 2: Create an outline plan**
+#### Step 2: Create an outline plan
 
 -   Create a  **shared document**  (in OneDrive or Google Docs); make it a  **table**. See below for template/example (filled with fictive data).
     -   Insert  **rows**  for each learning team meeting
@@ -441,7 +443,7 @@ For a guideline to develop your own personal learning plan >  [See Tool 2.2.1](h
             
 
 
-#### **Step 3:** **Refine meeting agenda per focus-APT**
+#### Step 3: Refine meeting agenda per focus-APT
 
 -   Next, add two  **additional columns**:
     -   Meeting agenda/1st  hour (with LTC)
@@ -472,7 +474,7 @@ For a guideline to develop your own personal learning plan >  [See Tool 2.2.1](h
 
 ----------
 
-#### **Real-life examples**
+#### Real-life examples
 
 Below, you can find several screenshots from plannings from actual learning teams, created in previous years. To serve as examples and inspirations. Note that these examples differ greatly; there is not one way to go, so find out what works best for your team!
 
@@ -482,7 +484,7 @@ Let’s go!  **😊**
 
 <img width="650" alt="image-7" src="https://github.com/user-attachments/assets/9104e111-9978-4327-a32f-1fa1d5581b00" />
 
-<img width="650" alt="image-4fac63e4-0bac-4430-a65f-30f1438b55f2" src="https://github.com/user-attachments/assets/8b2f9f1e-cecc-4b3a-935c-311fdc8fe651" />
+<img width="650" alt="image-4fac63e4-0bac-4430-a65f-30f1438b55f2" src="https://github.com/user-attachments/assets/8b2f9f1e-cecc-4b3a-935c-311fdc8fe651" /><br/><br/>
 
 <img width="650" alt="image-9c4a0969-2656-4182-9fa3-b1b6b34dec4f" src="https://github.com/user-attachments/assets/f577f0f1-5237-42fa-ac18-154d48b8cc80" />
 

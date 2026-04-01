@@ -77,7 +77,7 @@ o What are you looking forward to? / What are you afraid of? Why?
 ---
 ---
 
-# ⬛ TOOL 1.2 - APT–Mapping
+## ⬛ TOOL 1.2 - APT–Mapping
 
 _**Concept mapping as a technique to explore and navigate the APT**_
 
@@ -120,7 +120,7 @@ The overarching APT-map can further be used to  **zoom in / zoom out**  of focus
 -   Mural  [https://www.mural.co/](https://www.mural.co/)  (open, free limited)
 -   Miro  [https://miro.com/index/](https://miro.com/index/)  (open, free limited)
 -   Padlet  [https://nl.padlet.com/](https://nl.padlet.com/)  (open, free, windows app)
--   https://bubbl.us/ (open, free limited)
+-   Bubbl.us [https://bubbl.us/] (open, free limited)
 
 ---
 

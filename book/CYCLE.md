@@ -28,7 +28,7 @@ _The PDF of this tool can be downloaded here:_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This picture may be used for personal reference or to use as visual aid in discussions about the learning cycle.
 
@@ -56,7 +56,7 @@ _The PDF of this tool can be downloaded here:_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This one-pager may be used as visual aid and discussion guide to talk about the learning cycle in your learning team.
 
@@ -84,7 +84,7 @@ _The PDF of this tool can be downloaded here:_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This one-pager may be used as visual aid and discussion guide to talk about the learning cycle in your learning team.
 

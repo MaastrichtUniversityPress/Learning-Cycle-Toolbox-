@@ -23,7 +23,7 @@ _**Concept mapping as a technique to navigate Focus-APTs and to assess and enhan
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This tool can be used within the learning team and/or for self-study in order to zoom in/zoom out on focus-APTs.
 
@@ -70,10 +70,10 @@ Initial APT-mapping: **See Tool 1.2**
 Examples of focus-APT maps on whiteboard. Not to copy, just for inspiration. Notice different techniques, layouts:
 
 <img width="600" alt="image-a1542349-3904-4619-b606-b73def2713c1" src="https://github.com/user-attachments/assets/362d900b-e3a5-4dd7-9b01-e92ada1384a3" />
-</br>
+</br><br/>
 <img width="600" alt="image-396b6380-3642-4f31-8378-f4f42811b408" src="https://github.com/user-attachments/assets/c91e5971-b62b-4ca7-8041-f6f5ca3b9c4e" />
-</br>
-<img width="600" alt="image-45db9b82-eb19-4b73-934e-dfa738e6ef70" src="https://github.com/user-attachments/assets/462c85fc-1f11-49f8-b191-250455a05d8f" />
+</br><br/>
+<img width="600" alt="image-45db9b82-eb19-4b73-934e-dfa738e6ef70" src="https://github.com/user-attachments/assets/462c85fc-1f11-49f8-b191-250455a05d8f" /><br/>
 
 ---
 
@@ -81,7 +81,7 @@ Resource / inspired by:  [Daley & Torre (2010). Concept maps in medical educatio
 
 Example:[https://app.mural.co/invitation/mural/bamedlearningteams0326/1659356731269?sender=u51788510657a0338b6417044&key=e6b82d65-158c-4a27-96b1-318e6df0410a](https://app.mural.co/invitation/mural/bamedlearningteams0326/1659356731269?sender=u51788510657a0338b6417044&key=e6b82d65-158c-4a27-96b1-318e6df0410a)
 
-See  [this tool](https://canvas.maastrichtuniversity.nl/courses/23475/pages/1-dot-2-apt-mapping "⬛ 1.2 - APT–Mapping")  for initial APT-mapping.</br><br/>
+See  **Tool 1.2** for initial APT-mapping.</br><br/>
 
 ---
 ---
@@ -92,7 +92,7 @@ _**A tool to practice and apply (new) knowledge**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This tool can be used within the learning team and/or for self-study.  
 **Step 1:**  Search and select an appropriate case.  
@@ -133,15 +133,15 @@ The following resources provide medical cases for learning. Please be aware that
 
 #### Step 2a: Discuss the case (learning team meeting)
 
-_Preparation_
+**_Preparation_**
 
 The student(s) who are in charge of delivering the case, should  **screen**  and if necessary  **edit**  the selected case before presenting it to the team:
 
 -   Check for  **redundant**  or  **distracting information**, or information that goes beyond the level of complexity that is needed. Remove or strikethrough this information to simplify the case and have a better focussed discussion.
 -   Most existing cases will be accompanied by an answer key /  **solution**  Bring this information to the meeting, but do not share with your peers yet. Use this info to guide the discussion.
--   When you use an AI-generated case: Make a best possible judgement of its  **plausibility**. If necessary, adjust. See also  **tool 4.8**
+-   When you use an AI-generated case: Make a best possible judgement of its  **plausibility**. If necessary, adjust. See also  **tool 4.8**<br/>
 
-_Discussion_
+**_Discussion_**
 
 Discussing the case is a way to delve deep into the underlying mechanisms. Some ground rules:
 
@@ -149,9 +149,9 @@ Discussing the case is a way to delve deep into the underlying mechanisms. Some 
 -   Make sure  **everyone contributes**  to discussion.
 -   **Invite each other**  to ask questions about any aspects you do not yet understand properly.
 -   Explain  **in your own words**. You may want to use your notes as a reminder, but do not read out loud.
--   When others are speaking,  **check for yourself**  if it is clear what is being said, and if it is true in your opinion.
+-   When others are speaking,  **check for yourself**  if it is clear what is being said, and if it is true in your opinion.<br/>
 
-_Guiding questions_
+**_Guiding questions_**
 
 The following guiding questions might be useful to discuss the case. These questions are for inspiration; feel free to adapt, omit or add as you see fit for purpose. (Often a case comes with a set of questions that of course can be used as well)
 
@@ -183,9 +183,7 @@ If you use the case for self-evaluation, go through the guiding questions listed
 Resources / inspired by:
 
 -   [Deep and meaningful learning: taking learning to the next level (Times Higher Education)](https://www.timeshighereducation.com/campus/deep-and-meaningful-learning-taking-learning-next-level)
--   [McMaster University – Health Sciences Library guides & tutorials – Medicine undergraduate](https://hslmcmaster.libguides.com/c.php?g=550029&p=4966726)
-
-</br><br/>
+-   [McMaster University – Health Sciences Library guides & tutorials – Medicine undergraduate](https://hslmcmaster.libguides.com/c.php?g=550029&p=4966726)</br><br/>
 
 ---
 ---
@@ -196,7 +194,7 @@ _**A tool to create cases to challenge your knowledge**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This tool can be used within the learning team and/or for self-study.  
 **Step 1:**  Create an appropriate case using AI.  
@@ -269,9 +267,8 @@ Copy and paste the prompt text below into the GPT’s chat box; adapt the topic 
 -   Sub 4: Including a short clinical vignette produces Progress test type questions.
 
 >_Prompt text part 1:_
-
+>
 >Create a test about clinical applied human anatomy of the musculoskeletal system, conform the following criteria:
-
 >-   The tests consists of 20 multiple-choice questions with a mix of three to six answer options.
 >-   Difficulty level of the questions should be 50% moderate and 50% difficult for final year undergraduate medical students.
 >-   Create the multiple-choice questions conform scientifically recognized methodology.
@@ -279,7 +276,7 @@ Copy and paste the prompt text below into the GPT’s chat box; adapt the topic 
 >-   Present answer options in alphabetical order.
 >-   Present per question in this order: question – answer options. Do NOT include answer key.
 >-   Layout: insert a horizontal line between questions. Put enter between question and answer and between answer options.
-
+>
 >_Copy-paste the output in a word file and save._
 
 #### Step 3: Use prompt part 2 to generate answer key
@@ -287,14 +284,13 @@ Copy and paste the prompt text below into the GPT’s chat box; adapt the topic 
 Next, use the prompt text part 2 below to generate an extensive answer key. Do this immediately after step 2, in the same GPT chat session. Keeping the answer key separate from the questions enhances the learning experience if you want to use the questions to really test yourself.
 
 >_Prompt text part 2:_
-
+>
 >Next, provide an answer key list with for each question the following information:
-
 >-   answer key
 >-   explanation for correct answer
 >-   a verifiable reference of a textbook, not journal, commonly accepted in medical education, including exact title of the specific resource and page number(s).
 >-   Layout: insert a horizontal line between entries.
-
+>
 >_Copy-paste the output in a word file and save__._
 
 #### Step 4: Practice! – Tips & tricks

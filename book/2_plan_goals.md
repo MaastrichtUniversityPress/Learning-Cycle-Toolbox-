@@ -23,7 +23,7 @@ _**Guiding questions to support goalsetting**_
 
 ---
 
-### How to use this tool? 
+#### How to use this tool? 
 This tool can be used within the learning team and/or within 1-on-1 meetings with the LTC and/or for self-study.
 
 **Step 1:**  First debrief the exploration phase, your understanding of the APT and performance objectives (POs). The session chair can review the key points from APT exploration. If you are reviewing individually, check your (group) notes from APT exploration.
@@ -72,7 +72,7 @@ _**Formulating SMART learning goals for your individual learning plan**_
 
 ---
 
-### How to use this tool? 
+#### How to use this tool? 
 This tool can be used within the learning team and/or for self-study in order to formulating SMART learning goals for your individual learning plan.
 
 **Step 1:**  Follow the provided questions to set your personal learning goals as SMART goals.
@@ -131,7 +131,7 @@ _**Not to copy but to inspire your own learning goals**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This tool is designed to inspire and guide you in creating your own learning goals. Here, you'll find fictitious examples showcasing the SMART criteria in action. Remember, the purpose is not to copy these examples, but rather to use them as inspiration for crafting your own unique and personally relevant learning goals.
 
@@ -216,7 +216,7 @@ _**Actions and guiding questions to develop an individual learning plan**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 **Step 1:** At the beginning of the period, before the first learning team meeting, create a global plan for this period. Bring your global plan to the meeting and discuss it with your group.
 
@@ -293,7 +293,7 @@ _**Suggested learning team activities to support (personal) planning**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 Before the first learning team meeting of the period when you are developing your individual plan for the period (**see Tool 2.2.1**), think about team activities to support your (personal) planning. Bring your ideas to the meeting and discuss it with your group.
 
@@ -322,7 +322,7 @@ _**Examples, templates and suggested planning tools**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This tool is designed to inspire and guide you in creating your individual learning plan. Here, you'll find planning examples, templates, and some suggested tools.  
 Remember, the purpose is to see and use these examples as inspiration for crafting your own plan.

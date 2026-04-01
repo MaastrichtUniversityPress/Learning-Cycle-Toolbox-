@@ -211,7 +211,7 @@ _This is an example of a seemingly less concrete aim._
 ---
 ---
 
-# ⬛ TOOL 2.2.1 - Individual Learning Plan
+## ⬛ TOOL 2.2.1 - Individual Learning Plan
 
 _**Actions and guiding questions to develop an individual learning plan**_
 
@@ -288,7 +288,7 @@ Resource for planning:  [Study Smart, workbook session 2](https://www.studysmart
 ---
 ---
 
-# ⬛ TOOL 2.2.2 - Team Activities for Planning
+## ⬛ TOOL 2.2.2 - Team Activities for Planning
 
 _**Suggested learning team activities to support (personal) planning**_
 
@@ -317,7 +317,7 @@ IMPORTANT: Aim is at  **sparring** on  **individual** learning plans, NOT at rea
 ---
 ---
 
-# ⬛ 2.2.3 - Planning Examples and Tools
+## ⬛ 2.2.3 - Planning Examples and Tools
 
 _**Examples, templates and suggested planning tools**_
 
@@ -386,7 +386,7 @@ Resource / inspired by:  [de Boer et al. (2021), Perspective-based generic quest
 ---
 ---
 
-# ⬛ 2.3 - Team Plan for a Period
+## ⬛ 2.3 - Team Plan for a Period
 
 _**Actions to develop a team plan for a curriculum period**_
 

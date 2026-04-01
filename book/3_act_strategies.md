@@ -231,9 +231,8 @@ The student(s) who are in charge of delivering the case, should screen and if ne
 Resources / inspired by:
 
 -   [Deep and meaningful learning: taking learning to the next level (Times Higher Education)](https://www.timeshighereducation.com/campus/deep-and-meaningful-learning-taking-learning-next-level)
--   [Using ChatGPT in Medical Education for Virtual Patient and Cases (Lecturio)](https://www.lecturio.com/inst/pulse/using-chatgpt-in-medical-education-for-virtual-patient-and-cases/)
+-   [Using ChatGPT in Medical Education for Virtual Patient and Cases (Lecturio)](https://www.lecturio.com/inst/pulse/using-chatgpt-in-medical-education-for-virtual-patient-and-cases/)</br><br/>
 
-</br><br/>
 ---
 ---
 
@@ -243,7 +242,7 @@ _**A tool to generate practice questions with Chat-GPT and use these for deep le
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 This tool provides a prompt script to generate practice questions on a specific topic using Chat-GPT. You may find this helpful to expand your collection of questions for self-evaluation purposes and to practice specific content topics, for example your weaker progress test categories. You can use the questions for retrieval practice (e.g. include them in flashcards) to enhance your deep learning and for self-monitoring purposes to evaluate your study efforts.
 
@@ -291,7 +290,7 @@ Next, use the prompt text part 2 below to generate an extensive answer key. Do t
 >-   a verifiable reference of a textbook, not journal, commonly accepted in medical education, including exact title of the specific resource and page number(s).
 >-   Layout: insert a horizontal line between entries.
 >
->_Copy-paste the output in a word file and save__._
+>_Copy-paste the output in a word file and save._
 
 #### Step 4: Practice! – Tips & tricks
 

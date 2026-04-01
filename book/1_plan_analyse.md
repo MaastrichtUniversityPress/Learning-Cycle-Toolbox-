@@ -23,7 +23,7 @@ _**Guiding questions to explore the APT**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 
 **Step 1:** Before the learning team meeting, review the APT. One student prepares and chairs the group discussion during the meeting while other student(s) take note to share and contribute to the group brainstorm. Customize or add new questions as necessary for your APT. Engage in a comprehensive discussion of the APT using the below questions. (Do not forget to rotate responsibilities for question selection among team members. Ensure everyone gets a chance to contribute to and lead discussions.)
   
@@ -83,7 +83,7 @@ _**Concept mapping as a technique to explore and navigate the APT**_
 
 ---
 
-### How to use this tool?
+#### How to use this tool?
 This tool can be used within the learning team and/or for self-study. It can be used to explore an overarching APT.
 
 **Step 1:** After group exploring of the APT (see tool 1.1), follow the provided questions for brainstorming and navigation. Customize or add new questions as necessary for your APT. Engage in a comprehensive discussion of the APT using the below questions. (Do not forget to rotate responsibilities for question selection among team members. Ensure everyone gets a chance to contribute to and lead discussions.)  

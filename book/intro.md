@@ -2,7 +2,7 @@
 # 🚩 Learning Cycle Toolbox 
 ### _Starting Point_
 
-### What is the learning cycle toolbox?
+#### What is the learning cycle toolbox?
 
 The learning cycle toolbox is designed to support the learning process in the bachelor of medicine. The tools match the different phases and steps in the learning cycle. In addition, the toolbox includes tools to help you structure your learning team meetings and 1-on-1 coaching sessions and to facilitate group dynamics evaluation in your learning team. Tools are designed to be brief and practical, so no long reads.
 

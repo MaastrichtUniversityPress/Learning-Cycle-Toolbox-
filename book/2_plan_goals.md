@@ -109,12 +109,12 @@ Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_log
         -   Continue if goal is not yet reached / you want to keep working on it
         -   Close and adjust if needed (see next bullet)
 -   Adjust your learning goals if needed. Adjustment can be needed when:
-        -   You have  **finished a first step**  of a large learning goal
-            -   Close current goal and define new one for next step
-        -   **Circumstances have changed**  since you first defined the learning goal
-            -   Close current learning goal and redefine your aim as a new goal to make it better fit your current situation
-        -   The goal is still relevant to you, but the action plan you first defined  **appears not to work**  out as you hoped for
-            -   Keep current learning goal, but in update redefine action plan.
+    -   You have  **finished a first step**  of a large learning goal
+        -   Close current goal and define new one for next step
+    -   **Circumstances have changed**  since you first defined the learning goal
+        -   Close current learning goal and redefine your aim as a new goal to make it better fit your current situation
+    -   The goal is still relevant to you, but the action plan you first defined  **appears not to work**  out as you hoped for
+        -   Keep current learning goal, but in update redefine action plan.
 
 ---
 

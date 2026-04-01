@@ -317,7 +317,7 @@ IMPORTANT: Aim is at  **sparring** on  **individual** learning plans, NOT at rea
 ---
 ---
 
-## ⬛ 2.2.3 - Planning Examples and Tools
+## ⬛ TOOL 2.2.3 - Planning Examples and Tools
 
 _**Examples, templates and suggested planning tools**_
 
@@ -386,7 +386,7 @@ Resource / inspired by:  [de Boer et al. (2021), Perspective-based generic quest
 ---
 ---
 
-## ⬛ 2.3 - Team Plan for a Period
+## ⬛ TOOL 2.3 - Team Plan for a Period
 
 _**Actions to develop a team plan for a curriculum period**_
 

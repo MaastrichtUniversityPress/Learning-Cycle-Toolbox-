@@ -94,11 +94,11 @@ Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_log
         -   Define concrete steps in an action plan; state details of  _how, when_ and  _where_.
         -   Large or “clouded” learning goals: What will be  _first_  step?
 -   **M=Measurable**: How can you check progress on your learning goal?
-    -   -   _Which_  results do you aim for, and  _when_?
-        -   Include intermediate  _checkpoints_  to monitor your progress.
+    -   _Which_  results do you aim for, and  _when_?
+    -   Include intermediate  _checkpoints_  to monitor your progress.
 -   **A=Actionable/Attainable**: Make sure circumstances and opportunities are right to work on this learning goal. What do you need to really make this happen?
 -   **R=Realistic / Relevant**: Are your learning goals realistic?
--   -   -   Also: is it inspiring / meaningful / challenging to  _you_?
+    -  Also: is it inspiring / meaningful / challenging to  _you_?
 -   **T=Time-bound**: Set a start date and deadline, and hold yourself accountable to stick to it.
 
 #### Step 2: Follow up on your learning goals
@@ -109,7 +109,7 @@ Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_log
         -   Continue if goal is not yet reached / you want to keep working on it
         -   Close and adjust if needed (see next bullet)
 -   Adjust your learning goals if needed. Adjustment can be needed when:
--   -   -   You have  **finished a first step**  of a large learning goal
+        -   You have  **finished a first step**  of a large learning goal
             -   Close current goal and define new one for next step
         -   **Circumstances have changed**  since you first defined the learning goal
             -   Close current learning goal and redefine your aim as a new goal to make it better fit your current situation
@@ -146,14 +146,13 @@ _This is an example of a well-documented learning goal for a complex skill, with
 
 -   **S=Specific**: I will improve my literature search skills by using library resources (e-books, papers) instead of websites or summaries. I will do this for every learning task for 3 weeks.
     
+    Step 1: I will use the course resource list to find relevant e-books.
 
-Step 1: I will use the course resource list to find relevant e-books.
+    Step 2: I will do the library e-module on literature searches
 
-Step 2: I will do the library e-module on literature searches
+    Step 3: I will practice my skills by performing my own database searches to find 1 paper for each learning task.
 
-Step 3: I will practice my skills by performing my own database searches to find 1 paper for each learning task.
-
-Step 4: I will ask for feedback from 2 peers and my coach about my references and resources used.
+    Step 4: I will ask for feedback from 2 peers and my coach about my references and resources used.
 
 -   **M=Measurable**: I will measure my success from the feedback from my coach and peers who I have asked to provide a subjective comment about the search conducted and the resources I used.
     
@@ -270,14 +269,14 @@ Specify your personal selection of learning tasks and activities > What works be
         -   What is the first personal learning goal (step) to work on?
 -   Next, work out a detailed week schedule for this and next week(s):
 -   Which concrete activities will you undertake? How much time do they cost?
-    -   -   Scheduled activities: what takes place when? > Add to schedule
-        -   Subscription activities: what timeslot fits best for you? > Register and add to schedule
-        -   Self-study activities > Add to schedule
-        -   Monitoring and assessment activities > Add to schedule
+    -   Scheduled activities: what takes place when? > Add to schedule
+    -   Subscription activities: what timeslot fits best for you? > Register and add to schedule
+    -   Self-study activities > Add to schedule
+    -   Monitoring and assessment activities > Add to schedule
 -   Review your schedule (together with a peer or your coach)
-    -   -   Did you forget anything?
-        -   Are scheduled times realistic?
-        -   Add some buffer time to account for setbacks
+    -   Did you forget anything?
+    -   Are scheduled times realistic?
+    -   Add some buffer time to account for setbacks
 
 -   Let’s go!😊
 
@@ -308,11 +307,11 @@ For planning examples and tools: **See Tool 2.2.3**
 #### Team activities to support development of individual learning plans
 
 IMPORTANT: Aim is at  **sparring** on  **individual** learning plans, NOT at reaching consensus about 1 collaborative learning plan!  
-· A selection from the questions in tool 3.1 can also be discussed in a group setting.  
-· Intervision on formulating SMART learning goals.  
-· Peer Q&A: “Who knows where/how/….”  
-· Matchmaking / speed dates: “Who can help me with…” “Who wants to do….together”?  
-> Discover common interests, opportunities to help each other in subgroups, “buddies”.<br/><br/>
+-    A selection from the questions in tool 3.1 can also be discussed in a group setting.  
+-    Intervision on formulating SMART learning goals.  
+-    Peer Q&A: “Who knows where/how/….”  
+-    Matchmaking / speed dates: “Who can help me with…” “Who wants to do….together”?  
+     Discover common interests, opportunities to help each other in subgroups, “buddies”.<br/><br/>
 
 ---
 ---
@@ -340,9 +339,7 @@ You can find a basic empty template in the  [Study Smart, workbook session 2](ht
 <img width="375" height="276" alt="Planning 1" src="https://github.com/user-attachments/assets/95d4f293-f39e-4a7b-aa2c-dc88720a6897" />
 
 
-In WORD:
-
-> File > New > type “planning” as a search term > yields several ready to use and adaptable schedule templates
+- In WORD: > File > New > type “planning” as a search term > yields several ready to use and adaptable schedule templates
 
 <img width="311" height="245" alt="Planning 2" src="https://github.com/user-attachments/assets/ab993def-03e5-43bb-b7df-c843d43ced04" />
 

@@ -23,7 +23,7 @@ The 2-slide infographic below shows the learning cycle. At the core of the cycle
 
 
 ### I want to find a tool to…
-You can access tools for specific steps by selecting one of the links below. The full set of tools can always be browsed in the left navigation panel.</br>
+You can access tools for specific steps by selecting one of the links below. The full set of tools can always be browsed in the left navigation panel.</br></br>
 [⭕  **CYCLE**  - Review the learning cycle as a whole](./CYCLE.md) </br>
 [⚫ **PLAN**  - Analyse the task](./1_plan_analyse.md) </br>
 [⚫ **PLAN**  - Set clear goals and make a feasible plan](./2_plan_goals.md) </br>

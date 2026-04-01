@@ -36,6 +36,8 @@ For a version with prompting questions for the learning team:  **See tool 0.2**
 
 For a version with prompting questions for the individual student:  **See tool 0.3**
 
+---
+
 <img width="650" alt="image-757a3478-67cf-4a3c-9138-4f1790b65056" src="https://github.com/user-attachments/assets/607b2932-964c-4dde-a5c4-f83404048d8d" />
 
 [](https://canvas.maastrichtuniversity.nl/courses/23475/files/5234317?wrap=1)_Illustration:_  Judith Sieben, based on the original model created by  [Zimmerman, 2002](https://doi.org/10.1207/s15430421tip4102_2). Icons:  [flaticon.com](https://www.flaticon.com/) </br></br>
@@ -62,6 +64,8 @@ For a plain version without the prompts:  **See tool 0.1**
 
 For a version with prompting questions for the individual student:  **See tool 0.3**
 
+---
+
 <img width="650" alt="image-4c5f1016-7240-4091-8d33-da7282118f94" src="https://github.com/user-attachments/assets/187631aa-18c2-4d74-8e6e-ec7ae44fa663" />
 
 [](https://canvas.maastrichtuniversity.nl/courses/23475/files/5234317?wrap=1)_Illustration:_  Judith Sieben, based on the original model created by  [Zimmerman, 2002](https://doi.org/10.1207/s15430421tip4102_2). Icons:  [flaticon.com](https://www.flaticon.com/)</br></br>
@@ -78,7 +82,6 @@ For a version with prompting questions for the individual student:  **See tool 0
 _The PDF of this tool can be downloaded here:_
 [0.3 - Learning cycle with prompts for individual student 1-on-1 v4.0.pdf](https://github.com/user-attachments/files/25228664/0.3.-.Learning.cycle.with.prompts.for.individual.student.1-on-1.v4.0.pdf)
 
-
 ---
 
 ### How to use this tool?
@@ -88,6 +91,8 @@ This one-pager may be used as visual aid and discussion guide to talk about the 
 For a plain version without the prompts:  **See tool 0.1**
 
 For a version with prompting questions for the learning team:  **See tool 0.2**
+
+---
 
 <img width="650" alt="image-9fdaaf29-5b22-450e-8d08-397a582620fe" src="https://github.com/user-attachments/assets/84545b19-6957-4b33-8490-30ffa0545110" />
 

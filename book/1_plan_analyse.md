@@ -70,7 +70,7 @@ o What are you looking forward to? / What are you afraid of? Why?
 
 ---
 
-[]Resource / inspired by:  [de Boer et al. (2021), Perspective-based generic questions as a tool to promote student biology teacher questioning.  _Research in Science Education 51:_1287-1306.](https://doi.org/10.1007/s11165-019-9853-9)
+Resource / inspired by:  [de Boer et al. (2021), Perspective-based generic questions as a tool to promote student biology teacher questioning.  _Research in Science Education 51:_1287-1306.](https://doi.org/10.1007/s11165-019-9853-9)
 
 </br><br/>
 

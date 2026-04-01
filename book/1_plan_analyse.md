@@ -110,7 +110,7 @@ This tool can be used within the learning team and/or for self-study. It can be 
 -   To facilitate development of  **learning plans**:  
     o When analysing overarching APT: Indicate in APT-map areas of each focus-APT
 
-The overarching APT-map can further be used to  **zoom in / zoom out**  of focus-APTs >  [See tool 3.1](https://canvas.maastrichtuniversity.nl/courses/23475/pages/3-dot-1-focus-apt-zoom-in-slash-zoom-out " 🟧 3.1 - Focus-APT Zoom In/Zoom Out")
+The overarching APT-map can further be used to  **zoom in / zoom out**  of focus-APTs: **See tool 3.1**
 
 #### Step 2: Concept mapping platforms
 
@@ -135,10 +135,6 @@ The overarching APT-map can further be used to  **zoom in / zoom out**  of focus
 -   Examples of APT map on whiteboard. Not to copy, just for inspiration. Notice different techniques, layouts:
 
 <img width="650" height="697" alt="image-3c4ffb19-19a7-4e5b-89bf-dbf303ee4748" src="https://github.com/user-attachments/assets/1418ce40-3c49-402c-b33e-d10c802b43af" />
-
----
-
-The APT-map can further be used to zoom in / zoom out of focus-APTs: **See tool 3.1**.
 
 ---
 

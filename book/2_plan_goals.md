@@ -1,18 +1,20 @@
-# ⚫ 2. PLAN :: I want to set clear learning goals and make a feasible plan
+# ⚫ 2. PLAN - Learning Goals & Plan
+### _I want to set clear learning goals and make a feasible plan_<br/>
+---
 
-### **What are these tools?**
+### What are these tools?
 
 The goalsetting tools help you clearly define your own specific learning goals for the period (in addition to the learning goals that you will encounter anyway as part of the curriculum and learning tasks). Strategic planning tools provide support in devising actionable steps to achieve your goals effectively.
 
-### **Why are these tools useful?**
+### Why are these tools useful?
 
 These tools are crucial for setting specific learning goals and creating a strategy to achieve them. By providing a structured approach, they ensure that your goals are well aligned with both the APT and your personal development needs. They also offer guidance on how to devise a clear, concrete and feasible plan for addressing and actually achieving your learning goals efficiently.
 
-### **When to use these tools?**
+### When to use these tools?
 
 The goalsetting tools should be used right after task analysis and before diving into specific learning tasks or activities. These tools are ideal for working within a learning team to derive collective learning goals and a planning for your team meetings, but can also be used individually to find your personal focus points for the upcoming period. These tools can also be revisited throughout the learning process, especially when refining your approach to next focus-APTs or adjusting your learning plan during the “Act” stage.
 
-----------
+---
 
 #### **Select a Tool Below:**
 

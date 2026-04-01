@@ -33,7 +33,7 @@ You can access tools for specific steps by selecting one of the links below. The
 [🔵 **LOOK BACK**  - Reflect and derive lessons learned](./6_look_back_derive.md) </br>
 [⚪ **MEETING GUIDES**  - Structure learning team meetings and 1-on-1 coaching sessions](./7_meeting_guides.md) </br>
 [⚪ **EVALUATION TOOLS**  - Evaluate team work and group dynamics](./8_evaluation_tools.md) </br>
-</br></br>
+</br>
 
 **Work in progress**
 

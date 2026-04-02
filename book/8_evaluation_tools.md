@@ -40,12 +40,16 @@ Slides #4 and #5 > empty templates for you to use and adapt to your needs
 <img width="600" alt="Picture1" src="https://github.com/user-attachments/assets/a2f96e17-f78a-4870-ac9f-934b9e03cce3" />
 
 <br/>
+
 #### Example 2: LTC Asking Feedback from Students in Learning Team
 
 <img width="600" alt="Picture2" src="https://github.com/user-attachments/assets/e809bbdc-a21f-4432-a67d-d0c066ebc359" />
 
 </br>
+</br>
 
+---
+---
 
 ## ⬜ TOOL 8.2 - Blobtree Evaluation
 

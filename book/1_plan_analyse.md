@@ -130,7 +130,7 @@ The overarching APT-map can further be used to  **zoom in / zoom out**  of focus
 
 <img width="650"  alt="image-0b471f16-722e-490e-bb1c-0b606e87ce8f" src="https://github.com/user-attachments/assets/d4e85c5e-3bed-4efc-9e8f-51608347a6cc" />
 
-</br>
+</br><br/>
 
 -   Examples of APT map on whiteboard. Not to copy, just for inspiration. Notice different techniques, layouts:
 

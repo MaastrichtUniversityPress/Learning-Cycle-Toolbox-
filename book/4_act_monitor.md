@@ -1,5 +1,5 @@
 # 🟠 4. ACT - Monitor Progress 
-### _I want to check my progress and adjust my plan if necessary_<br/>
+### _I want to check my progress and adjust my plan<br/>
 
 ---
 
@@ -16,7 +16,7 @@ These tools are useful for self-observation during the “Act” phase, where yo
 Use these tools regularly throughout the “Act” phase, especially after completing key stages of the APT or (personal) learning goal or when encountering obstacles. Regular progress checks allow you to catch potential issues early, making it easier to adapt your plan without losing drive. Revisit these tools anytime your progress stalls, if you feel the need to optimize your approach, to check whether you are not missing any aspects of the task, to meet deadlines or performance objectives more effectively.
 
 ### Which tools are available?
-Besides the tools below, we also recommend tool [3.4 - Using AI to generate (Progress Test) practice questions](https://msaive.github.io/Learning-Cycle-Toolbox-/main/act_strategies.html#using-ai-to-generate-progress-test-practice-questions) for this purpose.
+Besides the tools below, the tool in part 3 [(ACT - Complete task)] (https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#act-complete-task) are also useful for this purpose.
 <br/><br/>
 
 ---
@@ -43,41 +43,41 @@ This tool can be used within the learning team and/or within 1-on-1 meetings wit
 
 #### Step 1 – Monitor: Questions to check state of affairs (global overview)
 
--       Process - review  **learning plan**:  
-        -       **How are you**  doing/feeling?  
-        -       **Where** are you now? > What did you manage to do according to plan, what not?  
-        -       What  **obstacles** did you encounter? What was helpful?  
-                -   Outcome – review  **progress information**  (feedback, (self-)assesments, etc.:  
+- Process: review  **learning plan**:  
+        - **How are you**  doing/feeling?  
+        - **Where** are you now? > What did you manage to do according to plan, what not?  
+        - What **obstacles** did you encounter? What was helpful?  
+- Outcome: review  **progress information**  (feedback, (self-)assesments, etc.:  
         - To what extent are you  **on track**?
-                -   In terms of APT and period learning progress
-                -   In terms of personal learning goals
+        - In terms of APT and period learning progress
+        - In terms of personal learning goals
 
 #### Step 2 – Evaluate: Questions to evaluate actions so far (dig deeper)
 
--        To debrief learning actions, the STARR interviewing technique can be used:  
-         - **S=Situation**: What was the context? > Where?/Who?/When? (This might be less important here, because obvious.) 
-         - **T=Task**: What were you supposed to do? What was your learning goal / plan?  
-         - **A=Action**: What did you actually do? How did this differ (or not) from your plan?  
-         - **R=Result**: How did it work? What was the outcome?  
-         - **R=Reflect**: How satisfied are you, about outcome and process? What to do different next time? > see next 
+- To debrief learning actions, the STARR interviewing technique can be used:  
+        - **S=Situation**: What was the context? > Where?/Who?/When? (This might be less important here, because obvious.) 
+        - **T=Task**: What were you supposed to do? What was your learning goal / plan?  
+        - **A=Action**: What did you actually do? How did this differ (or not) from your plan?  
+        - **R=Result**: How did it work? What was the outcome?  
+        - **R=Reflect**: How satisfied are you, about outcome and process? What to do different next time? > see next 
 
 #### Step 3 – Adapt: Questions to develop next steps
 
--       Identify what to  **continue**:  
+- Identify what to  **continue**:  
         - Ongoing activities that are going well  
         - Effective study behaviours  
         - Next steps conform individual learning plan for period  
         - Next steps conform SMART plans for personal goals  
--       Identify what to  **adapt**:  
+- Identify what to  **adapt**:  
         - Plans that are behind schedule / slow on progress  
         - Actions and study behaviours that did not work out as expected  
         - Topics/actions that caused unforeseen problems  
--       Adapt: What do  **differently** next time / what to try out / experiment with?  
+- Adapt: What do  **differently** next time / what to try out / experiment with?  
         - Brainstorm: You are now here… you need to get to there….  
                 - What will be the next step? > SMART 
         - Brainstorm: This was not a success / did not turn out well this time  
                 - What try differently? How to remediate/resolve? Who can help you? > SMART  
--       **Integrate** adapted plans and additions in individual learning plan</br><br/>
+- **Integrate** adapted plans and additions in individual learning plan</br><br/>
 ---
 ---
 
@@ -113,8 +113,8 @@ NB: These suggestions are just for inspiration. Be creative! (and additional sug
         -  Multidisciplinary health care meeting  
         -  Clinical patient discussion (“overdracht”)  
         -  Other parts of APT or POs
--   Collaborative generate and discuss “what if questions” > see also **Tool 3.2** [https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning]
--   Use a (medical) case to apply newly gained insights to > see also **Tool 3.2** [https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning]
+-   Collaborative generate and discuss “what if questions” > see also [**Tool 3.2**] (https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning)
+-   Use a (medical) case to apply newly gained insights to > see also [**Tool 3.2**] (https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning)
 -   Collaborative developing and applying peer-feedback rubrics
 
 #### Step 2 – Evaluate & Adapt: share & advice formats

@@ -20,7 +20,7 @@ Besides the tools below, the [**tool 2.3**](https://msaive.github.io/Learning-Cy
 ---
 ---
 
-## ⬜ TOOL 7.1 - How to Do a Learning Team Meeting
+## ⬜ TOOL 7.1 - How to: Learning Team Meeting
 
 _**Basic structure for learning team meetings**_
 

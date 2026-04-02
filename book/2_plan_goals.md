@@ -439,7 +439,7 @@ Learning teams create their own planning for a period. This tool provides direct
     -   Start by browsing and prediscuss the  **learning tasks**.
     -   Create an inventory of  **learning goals**  and  **topics**  to discuss.
     -   **Prioritise**,  **order**  and  **spread**  topics over meetings.
-    -   Choose  **formats/activities**  to work on these topics:  **See tool 7.1** (How to structure a Learning Team Meeting) for suggestions.
+    -   Choose  **formats/activities**  to work on these topics:  [**See tool 7.1**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/7_meeting_guides.html#tool-7-1-how-to-structure-a-learning-team-meeting) (How to structure a Learning Team Meeting) for suggestions.
 -   **Starters’ tip:**  To overcome “starting paralysis” specify the plan for next one or twee meetings only, get going and refine from there based on your experiences.
 -   **Review** your plan together with your coach:
     -   Did you forget anything? (monitoring activities, team dynamics evaluation!)

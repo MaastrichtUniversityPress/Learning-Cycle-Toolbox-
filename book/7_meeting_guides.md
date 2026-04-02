@@ -213,7 +213,7 @@ Stay in the room and study together. Work individually or in small groups (duo�
 
 ## ⬜ 7.2.1 - Guide for regular 1-on-1 meetings
 
-_**Agenda points and guiding questions for short individual coaching meetings throughout a period (Act phase)**_
+_**Agenda points and guiding questions for individual coaching meetings throughout a period (Act phase)**_
 
 ---
 
@@ -292,8 +292,8 @@ Use time to discuss learning strategies. It might be very insightful to ask your
 ---
 ---
 
-## ⬜ 7.2.2 - Guide for end-of-period 1-on-1 meeting
-_**Agenda points and guiding questions for individual coaching meeting to round off a period (Look back phase)**_
+## ⬜ 7.2.2 - Guide for end-of-period 1-on-1
+_**Agenda points and guiding questions for individual meeting to round off a period (Look back phase)**_
 
 ---
 

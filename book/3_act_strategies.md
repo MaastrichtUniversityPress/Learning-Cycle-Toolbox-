@@ -234,7 +234,7 @@ Resources / inspired by:
 ---
 ---
 
-## 🟧 TOOL 3.4 - Using AI to generate practice questions
+## 🟧 TOOL 3.4 - Using AI to create practice questions
 
 _**A tool to generate practice questions with Chat-GPT and use these for deep learning and self-monitoring**_
 

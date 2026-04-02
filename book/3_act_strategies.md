@@ -1,5 +1,5 @@
 # 🟠 3. ACT - Complete task 
-### _**I want to complete my learning task or goal efficiently by using effective strategies**_<br/>
+### _I want to complete my learning task or goal efficiently by using effective strategies_<br/>
 ---
 
 ### What are these tools?
@@ -19,7 +19,7 @@ These tools should be used throughout the “Act” phase to ensure consistent p
 
 ## 🟧 TOOL 3.1 - Focus-APT Zoom In/Zoom Out
 
-_**Concept mapping as a technique to navigate Focus-APTs and to assess and enhance integration of knowledge**_
+_**Concept mapping as a technique to navigate Focus-APTs and to enhance integration of knowledge**_
 
 ---
 
@@ -84,7 +84,7 @@ Example:[https://app.mural.co/invitation/mural/bamedlearningteams0326/1659356731
 ---
 ---
 
-## 🟧 TOOL 3.2 - Using Medical Cases for Deep Learning
+## 🟧 TOOL 3.2 - Medical Cases for Deep Learning
 
 _**A tool to practice and apply (new) knowledge**_
 
@@ -186,9 +186,9 @@ Resources / inspired by:
 ---
 ---
 
-## 🟧 TOOL 3.3 - Using AI to Generate Medical Cases
+## 🟧 TOOL 3.3 - Using AI to Create Medical Cases
 
-_**A tool to create cases to challenge your knowledge**_
+_**A tool to generate cases to challenge your knowledge**_
 
 ---
 
@@ -234,7 +234,7 @@ Resources / inspired by:
 ---
 ---
 
-## 🟧 TOOL 3.4 - Using AI to generate (Progress Test) practice questions
+## 🟧 TOOL 3.4 - Using AI to generate practice questions
 
 _**A tool to generate practice questions with Chat-GPT and use these for deep learning and self-monitoring**_
 

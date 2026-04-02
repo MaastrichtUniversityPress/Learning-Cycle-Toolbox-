@@ -73,7 +73,7 @@ For a version with prompting questions for the individual student:  **See tool 0
 ---
 ---
 
-## ⭕ TOOL 0.3 - Learning cycle for individual student
+## ⭕ TOOL 0.3 - Learning cycle for student
 
 **_A visual representation of the learning cycle model, with discussion prompts for the individual student_**
 

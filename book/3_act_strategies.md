@@ -137,7 +137,7 @@ The student(s) who are in charge of delivering the case, should  **screen**  and
 
 -   Check for  **redundant**  or  **distracting information**, or information that goes beyond the level of complexity that is needed. Remove or strikethrough this information to simplify the case and have a better focussed discussion.
 -   Most existing cases will be accompanied by an answer key /  **solution**  Bring this information to the meeting, but do not share with your peers yet. Use this info to guide the discussion.
--   When you use an AI-generated case: Make a best possible judgement of its  **plausibility**. If necessary, adjust. See also  **tool 4.8**<br/>
+-   When you use an AI-generated case: Make a best possible judgement of its  **plausibility**. If necessary, adjust.<br/>
 
 **_Discussion_**
 

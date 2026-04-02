@@ -72,6 +72,7 @@ Your team might develop several  **variations**  to this time schedule, for exam
 
 #### A - Topics and activities for “first hour” segments (with LTC)
 <br/>
+
 **A1. OPEN FLOOR**
 
 -   **Round-up**
@@ -91,6 +92,7 @@ Spend a few minutes to get to know each other better. Browse the internet for an
 One student in the spotlight, sharing anything you want. May be mini-presentations or other performances, related to curriculum contents or beyond (hobbys, personal interests).
 <br/>
 <br/>
+
 **A2. PRE-DISCUSSION LEARNING TASKS**
 
 This topic fits with the “Task analysis” step in the learning cycle and is therefore essential to include frequently. Aim is to explore APT, focus-APT or learning task and activate your prior knowledge. Don’t forget: To conclude the pre-discussion, formulate specific  **learning goals**  for self-study.
@@ -108,6 +110,7 @@ See  **tool 1.2**  for a guideline on how to create a concept map about the APT,
 In this quiz show, a recurring question format is:  _“What do you know about…..[topic]?”_  . The respondent gets 2 min. time to mention as many as possible facts or associations with the topic.
 <br/>
 <br/>
+
 **A3. POST-DISCUSSION LEARNING TASKS**
 
 This topic serves a purpose to enhance deep learning. Explaining to others in your own words what you have learned during your self-study, is an effective method to consolidate your knowledge. Of course this also an opportunity to ask questions to your peers about difficult topics. Finally, applying what you have learned to new situations is a good test to see whether you are on track.
@@ -143,6 +146,7 @@ To put single learning tasks into perspective, relate them to the focus-APT and/
 Put your newly gained knowledge to the test by trying to apply it to a new case. See  **tool 4.1.3**  for guidelines and suggestions on how to find or design cases.
 <br/>
 <br/>
+
 **A4. EXPERT MEETINGS**
 
 You may want to spend some time in the learning team to prepare for or post-discuss expert meetings. Pitfall: Do not let the expert meetings dominate your learning team meetings, your focus should be on the learning tasks. Yet, some team activities might support your personal preparation for expert meetings and the integration of expert meetings with learning tasks.
@@ -160,12 +164,14 @@ Plan individual preparation for expert meetings in such a way that you can use l
 After an expert meeting, use some time to digest together what you have learned. What were the key messages? How do these relate to the focus-APT and learning tasks? How does it relate to your discussions in the learning team? Try to help each other clarifying any remaining unclarities.
 <br/>
 <br/>
+
 **A5. EVALUATION ACTIVITIES**
 
 Evaluate your team functioning and group dynamics at least twice per period. There are several tools in the toolbox for evaluation formats: See  **tools 8.1, 8.2 and 8.3**.
 
 #### B – Topics and activities for “second hour” segments (without LTC)
 <br/>
+
 **B1. GROUP ASSIGNMENTS**
 
 Work on group assignments will generally be defined by the specific assignment’s requirements and practicalities. For group work to be effective, focus your time segments on specific goals:
@@ -191,6 +197,7 @@ Group work should be more than just dividing the workload. Spend time to discuss
 Do not end the meeting before making and communicating clear and concrete plans for next steps. Divide tasks and agree on the planning. Make sure everyone is on board and knows what to do.
 <br/>
 <br/>
+
 **B2. LEARNING TOGETHER**
 
 Extend activities from the first hour and spend more time to study together. Choose from the formats listed for the first hour; many of those are also suitable to do without the learning team coach. In addition, you might opt to:
@@ -227,12 +234,14 @@ This tool provides a  **basic structure**  and  **guiding questions**  for the  
 
 #### Basic structure and guiding questions for the 1-on-1 meeting
 <br/>
+
 **1 PERSONAL WELLBEING**
 
 -   How are you doing?
 -   Are there any new documents in your  **correspondence folder**  of your portfolio which we should discuss?
 <br/>
 <br/>
+
 **2 STUDY PROGRESS (“REALTIME” MONITORING)**
 
 -   How is your study  **progress** in this period, are you on track? How do you know?
@@ -241,24 +250,28 @@ This tool provides a  **basic structure**  and  **guiding questions**  for the  
 Add update in portfolio
 <br/>
 <br/>
+
 **3 STUDY STRATEGIES (WORKING WITH LEARNING CONTENT)**
 
 -   How does your  **self-study**  work-out so far? What are your  **strategies**  to study the learning tasks? To what extent are these strategies  **effective for deep learning**? Does your self-study strategy need adjustment? How? What would you need to make this successful? Tip: review  **Study Smart**  materials for more information on effective learning strategies.
 -   How are you  **preparing**  for and  **participating**  in  **expert meetings, trainings, workshops**?
 <br/>
 <br/>
+
 **4 ATTENDANCE AND PARTICIPATION**
 
 -   Are you  **attending** all learning activities? If not, why? Although this is a SRL curriculum, the idea is that all learning activities offered are there for a reason; they cover relevant learning outcomes. If anything is skipped: How will you alternatively reach the intended learning outcomes? > Reflect upon in portfolio.
 -   Are you  **asking/submitting questions** before and during expert meetings, practicals, in the learning team, etc? If not, why? What is holding you back? How could you overcome this? Can you give an example of a situation in which you  _did_  ask an expert for help? How did that work out?
 <br/>
 <br/>
+
 **5 PLANNING AND TIME MANAGEMENT**
 
 -   Looking at your  **planning**, are you managing to stay on track? What works well, what is difficult?
 -   Does your planning or  **time-management**  need adjustment? How? What do you need to make this change successful?
 <br/>
 <br/>
+
 **6 ATTENTION FOCUSSING AND MOTIVATON**
 
 -   **When and where**  do you study? Are you well enough able to  **focus**  your  **attention**? Do you need any adjustments to put yourself in a (more) productive study environment?
@@ -266,6 +279,7 @@ Add update in portfolio
 -   When you have accomplished a task, how do or could you  **reward**  yourself?
 <br/>
 <br/>
+
 **7 REMAINING QUESTIONS / PORTFOLIO**
 
 -   Which **feedback**  did you already collect in this period? And what is coming up? See PIP for what is expected in this period. Are there any  **actions needed**  to receive useful feedback?
@@ -295,13 +309,13 @@ This tool provides a  **basic structure**  and  **guiding questions**  for the  
 
 #### Basic structure and guiding questions for the end-of-period 1-on-1 meeting
 
-1 PERSONAL WELLBEING
+**1 PERSONAL WELLBEING**
 
 -   How are you doing?
 -   Are there any new documents in your  **correspondence folder**  of your portfolio which we should discuss?
 -   What topics or activities in this period did you  **like**  the most and why? What topics or activities in this period were  **difficult** or  **less interesting**  for you and why?
 
-2 STUDY PROGRESS: ANALYSE FEEDBACK, EVALUATE & REACT
+**2 STUDY PROGRESS: ANALYSE FEEDBACK, EVALUATE & REACT**
 
 -   Is your  **portfolio complete**; does it include all progress information as stated in the PIP? Fill in the  **overview file**  and upload it in your portfolio.
 -   Have you  **achieved the POs**  of this period? What does the  **feedback**  you collected say about your performance? How did you  **document and reflect**  on this in your portfolio?
@@ -313,7 +327,7 @@ This tool provides a  **basic structure**  and  **guiding questions**  for the  
 -   How  **satisfied**  are you about your performance and growth?
 -   Is there a need for  **new personal learning goals**? Formulate and document in portfolio! (**see also tools 2.1.1, 2.1.2 and 2.1.3 on goalsetting and SMART learning goals**)
 
-3 PROFESSIONAL AND PERSONAL DEVELOPMENT: LEARNING GOAL FOLLOW-UP
+**3 PROFESSIONAL AND PERSONAL DEVELOPMENT: LEARNING GOAL FOLLOW-UP**
 
 -   What were your  **previously formulated**  **personal learning**  goals for this period?
 -   Which activities (think of period activities, learning team meetings, electives, student clinics, self-study, own initiatives) did you attend or perform in this period to accomplish these goals? Can you describe your  **progress**?
@@ -321,7 +335,7 @@ This tool provides a  **basic structure**  and  **guiding questions**  for the  
 -   What will be your  **next steps**  regarding these goals? Do your learning goals need  **adjustment**? Are you ready for a  **next level**  (= new goal)?
 -   How did you  **document**  your learning goals and report on their progress in your  **portfolio**?
 
-4 STUDY PROCESS: EVALUATE YOUR STUDY STRATEGIES
+**4 STUDY PROCESS: EVALUATE YOUR STUDY STRATEGIES**
 
 -   Which lessons did you learn during this period about the way you do your  **self-study**?
 -   And what about your  **contribution to the learning team**  and  **group work**? Did you get out all that was in it?
@@ -329,7 +343,7 @@ This tool provides a  **basic structure**  and  **guiding questions**  for the  
 -   Are there any  **reasons to change your strategies**  for the next period or task?  **What, why and how**  would you like to try to do differently? What would you  **need**  to make it successful?
 -   Don’t forget to  **document**  any initiatives for change as  **learning goals**  and action plans in your  **portfolio**.
 
-5 REMAINING QUESTIONS
+**5 REMAINING QUESTIONS**
 
 -   **Look ahead**: What key messages and information from this period can you use for your  **substantiated analysis**? What patterns do you see?
 -   How do your experiences in this period influence your  **view on the profession**  and/or on (**choices** for) future electives, student clinics and minor?

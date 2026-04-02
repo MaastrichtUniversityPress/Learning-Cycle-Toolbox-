@@ -1,43 +1,35 @@
-# 🔵 5. LOOK BACK :: I want to evaluate my performance and understand how my actions influenced the outcome (results and process)
-
-### **What are these tools?**
+# 🔵 5. LOOK BACK - Evaluate Performance and Process
+### _I want to evaluate my study results and understand how my actions influenced the outcome_<br/>
+---
+### What are these tools?
 
 These tools help you (1) reflect on and critically evaluate your performance in completing an Authentic Professional Task (APT) or specific learning goal, comparing the results to the goals and performance objectives (POs); (2) analyse and develop insights into how your choices, learning strategies, and adjustments throughout the task impacted the final performance.
 
-### **Why are these tools useful?**
+### Why are these tools useful?
 
 These tools are useful to help you assess how well you performed and how effectively you applied your learning strategies. These tools help you connect your actions to the outcomes, fostering a deeper understanding of what contributed to your success or areas where you fell short. By evaluating your performance and learning process in relation to your initial goals, you will be able to identify strenghts, areas for improvement and lessons to apply in future tasks in the next step.
 
-### **When to use these tools?**
+### When to use these tools?
 
-These tools are specifically designed to be used at the end of a learning cycle or after completing a significant portion of an APT. Once you have finished the task or reached a major milestone, take time to reflect on your performance, compare it to your goals, and analyse how your strategies and decisions influenced the results.
+These tools are specifically designed to be used at the end of a learning cycle or after completing a significant portion of an APT. Once you have finished the task or reached a major milestone, take time to reflect on your performance, compare it to your goals, and analyse how your strategies and decisions influenced the results.**NB: Tools for "Evaluate" and "Derive lessons learned" steps are the same.** <br/><br/>
 
-----------
+---
+---
 
-#### **Select a Tool Below:**
+## 🟦 TOOL 5.1 - Analysis and Reflection
 
-🟦  [Evaluate result and process :: Materials and guiding questions](https://canvas.maastrichtuniversity.nl/courses/23475/pages/5-dot-1-analysis-and-reflection " 🟦 5.1 - Analysis and Reflection")
-
-🟦  [Team activities for reflection](https://canvas.maastrichtuniversity.nl/courses/23475/pages/6-dot-1-team-activities-for-reflection-slash-derive-lessons-learned "🟦 6.1 - Team Activities for Reflection / Derive lessons learned")
-
-**NB: Tools for "Evaluate" and "Derive lessons learned" steps are the same.**
-
-</br>
-
-# 🟦 5.1 - Analysis and Reflection
-
-## **Materials and guiding questions to support evaluating result and process, and to derive lessons learned**
+_**Materials and guiding questions to support evaluating result and process, and to derive lessons learned**_
 
 ----------
 
-#### **How to use this tool?**
+#### How to use this tool?
 
 This tool can be used within 1-on-1 meetings with the LTC and/or for self-study and provide materials and guiding questions to support the “**EVALUATE**” and “**DERIVE LESSONS LEARNED**” steps, during the final stage of each learning cycle.  
 Check the resources if you would like to have more information about BaMed assessment. Follow the suggested end-of-period questions to evaluate APT, POs, and personal learning goals and competencies.
 
 ----------
 
-#### **Resources: assessment information**
+#### Resources: assessment information
 
 -   _Programme of assessment BaMED_  > on intranet
     -   backgrounds, vision on assessment and assessment principles
@@ -71,7 +63,7 @@ Check the resources if you would like to have more information about BaMed asses
         -   What worked well / are you satisfied with? > continue
         -   What to do differently next period? How? > Make SMART goal
 
-#### **Competence analysis questions**
+#### Competence analysis questions
 
 For competency X:
 
@@ -84,7 +76,7 @@ For competency X:
     -   What will you be working on in next period? What do you aim for? > Define milestones
     -   Will these aims need learning goals to reach them? > Define SMART
 
-#### **Substantiated analysis questions (end-of-year)**
+#### Substantiated analysis questions (end-of-year)
 
 For competency X:
 
@@ -100,17 +92,18 @@ For competency X:
     -   What are logical next steps in your development?
     -   What are specific ambitions and personal interests for next year? What motivates you?
     -   What are points to work on?
--   Define SMART  **learning goals**
+-   Define SMART  **learning goals**</br><br/>
 
-</br>
+---
+---
 
-# 🟦 6.1 - Team Activities for Reflection / Derive lessons learned
+## 🟦 TOOL 6.1 - Team Activities for Reflection / Derive lessons learned
 
-## **Suggested learning team activities to support evaluation of result and process, and to derive lessons learned**
+_**Learning team activities to support evaluation of result and process, and to derive lessons learned**_<br/>
 
-----------
+---
 
-#### **How to use this tool?**
+#### How to use this tool?
 
 This tool can be used within the learning team and/or within 1-on-1 meetings with the LTC to provide suggestions to support the “**EVALUATE**” and “**DERIVE LESSONS LEARNED**” steps during the final stage of the learning cycle.
 
@@ -118,9 +111,9 @@ Check the following activities to collectively support portfolio work. Also expl
 
 These suggestions are just for inspiration. Be creative! (and additional suggestions are welcome)!
 
-----------
+---
 
-#### **Activities to support portfolio work**
+#### Activities to support portfolio work
 
 -   Competencies Q&A
     -   Help each other making sense of competencies and what info you can use as evidence
@@ -129,14 +122,14 @@ These suggestions are just for inspiration. Be creative! (and additional suggest
 -   Intervision: Substantiated analysis
     -   Share difficulties, tips and tricks for compiling evidence and writing substantiated analysis
 
-#### **Reflective activities: topics and themes for evaluation and reflection**
+#### Reflective activities: topics and themes for evaluation and reflection
 
 -   Learning team roles and functioning
 -   Period, APT, etc.
 -   Development as student and future medical doctor
 -   Learning strategies
 
-#### **Reflective activities: formats for team reflections**
+#### Reflective activities: formats for team reflections
 
 -   STARR interviewing
 -   Incident method
@@ -149,7 +142,7 @@ These suggestions are just for inspiration. Be creative! (and additional suggest
     -   Which photo, according to you, depicts aim of project?
     -   …
 
-#### **Reflective activities: variations to plenary group discussion**
+#### Reflective activities: variations to plenary group discussion
 
 -   Discuss question or feedback first in duo with 1 peer buddy, before bringing key message back to group
--   Think and write down 3-5 key terms individually, before starting group discussion
+-   Think and write down 3-5 key terms individually, before starting group discussion <br/><br/>

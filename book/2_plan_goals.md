@@ -32,8 +32,6 @@ This tool can be used within the learning team and/or within 1-on-1 meetings wit
 
 **Step 3:**  Follow the provided questions to set your personal learning goals. Do not forget to prioritize and create a realistic list.
 
-For SMART learning goals: **See tool 2.1.2**
-
 ---
 
 #### Step 1: Questions to debrief exploration
@@ -61,7 +59,7 @@ For SMART learning goals: **See tool 2.1.2**
     -   From negative association: neglecting or postponing
 -   Which goals are most important? >  **Prioritize**  and create a realistic list
 
-Convert goals to  **SMART action plans**  that can be implemented this period: **See Tool 2.1.2**</br><br/>
+Convert goals to  **SMART action plans**  that can be implemented this period: [**See Tool 2.1.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/2_plan_goals.html#tool-2-1-2-smart-learning-goals)</br><br/>
 
 ---
 ---
@@ -78,10 +76,6 @@ This tool can be used within the learning team and/or for self-study in order to
 **Step 1:**  Follow the provided questions to set your personal learning goals as SMART goals.
 
 **Step 2:**  Follow up on your learning goals. Update your progress in EPASS either in the Learning Goal form, or on an experience or competency card, whatever fits best in your portfolio practice.
-
-For examples of SMART learning goals: **See Tool 2.1.3**
-For goal setting guideline: **See Tool 2.1**
-Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_login.php?configset=ims)
 
 ---
 
@@ -118,9 +112,7 @@ Resource: See also documentation in [E-PASS.](https://my.epass.eu/htdocs/ims_log
 
 ---
 
-Resource: See also documentation in  [E-PASS](https://my.epass.eu/htdocs/ims_login.php?configset=ims).
-
-Examples:  **See tool 2.1.3**</br><br/>
+Resource: See also documentation in  [E-PASS](https://my.epass.eu/htdocs/ims_login.php?configset=ims).<br/><br/>
 
 ---
 ---
@@ -134,9 +126,6 @@ _**Not to copy but to inspire your own learning goals**_
 #### How to use this tool?
 
 This tool is designed to inspire and guide you in creating your own learning goals. Here, you'll find fictitious examples showcasing the SMART criteria in action. Remember, the purpose is not to copy these examples, but rather to use them as inspiration for crafting your own unique and personally relevant learning goals.
-
-For goal setting guide: **See Tool 2.1.1**  
-For SMART learning goals: **See Tool 2.1.2** 
 
 ---
 
@@ -224,9 +213,6 @@ _**Actions and guiding questions to develop an individual learning plan**_
 
 **Step 3:**  Review your personal plan and focus on what comes first. You can discuss your individual learning plan within 1-on-1 meetings with the LTC.
 
-For team activities to support individual learning plan: **See Tool 2.2.2**  
-For examples and practical planning tools (empty schedule): **See Tool 2.2.3**  
-
 ---
 
 #### Step 1: Create a global plan for this period
@@ -299,9 +285,6 @@ Before the first learning team meeting of the period when you are developing you
 
 During the first meeting, follow the suggested team activities to support your personal learning plan. These suggestions are just for inspiration. Be creative! (and additional suggestions are welcome)
 
-For planning guideline: **See Tool 2.2.1** 
-For planning examples and tools: **See Tool 2.2.3**
-
 ----
 
 #### Team activities to support development of individual learning plans
@@ -326,9 +309,6 @@ _**Examples, templates and suggested planning tools**_
 
 This tool is designed to inspire and guide you in creating your individual learning plan. Here, you'll find planning examples, templates, and some suggested tools.  
 Remember, the purpose is to see and use these examples as inspiration for crafting your own plan.
-
-For planning guideline: **See Tool 2.2.1**   
-For supporting team activities: **See Tool 2.2.2** 
 
 ---
 
@@ -398,8 +378,6 @@ Learning teams create their own planning for a period. This tool provides direct
 **Step 2:** During the first learning team meeting, develop an outline plan for the whole period and a more specific plan for the first focus-APT.
 
 **Step 3:**  Review and refine the plan as you go through the period, for subsequent focus-APTs..
-
-For a guideline to develop your own personal learning plan: **See Tool 2.2.1**
 
 ---
 
@@ -475,7 +453,6 @@ For a guideline to develop your own personal learning plan: **See Tool 2.2.1**
 
 Below, you can find several screenshots from plannings from actual learning teams, created in previous years. To serve as examples and inspirations. Note that these examples differ greatly; there is not one way to go, so find out what works best for your team!
 
-Let’s go!  **😊**
 
 <img width="650" alt="image-6" src="https://github.com/user-attachments/assets/e5090f92-bc69-4c9e-a2c7-633c10e7fe61" />
 

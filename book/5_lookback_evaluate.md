@@ -44,7 +44,7 @@ Check the resources if you would like to have more information about BaMed asses
 -   _Medical Training Framework 2020_  > via  [nfu.nl](https://www.nfu.nl/sites/default/files/2020-08/20.1577_Raamplan_Medical_Training_Framework_2020_-_May_2020.pdf)
     -   For descriptions of competencies
 
-#### **End-of-period questions (evaluate APT, POs and personal learning goals)**
+#### End-of-period questions (evaluate APT, POs and personal learning goals)
 
 -   Review performance objectives and  **progress**  made:
     -   Where are you now? To what level did you grow during this period?

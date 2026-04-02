@@ -20,7 +20,7 @@ Besides the tools below, the [**tool 2.3**](https://msaive.github.io/Learning-Cy
 ---
 ---
 
-## ⬜ TOOL 7.1 - How to structure a learning team meeting
+## ⬜ TOOL 7.1 - How to do a learning team meeting
 
 _**Basic structure for learning team meetings**_
 
@@ -211,7 +211,7 @@ Stay in the room and study together. Work individually or in small groups (duo�
 ---
 ---
 
-## ⬜ 7.2.1 - Conversation guide regular 1-on-1 meetings
+## ⬜ 7.2.1 - Guide for regular 1-on-1 meetings
 
 _**Agenda points and guiding questions for short individual coaching meetings throughout a period (Act phase)**_
 
@@ -292,7 +292,7 @@ Use time to discuss learning strategies. It might be very insightful to ask your
 ---
 ---
 
-## ⬜ 7.2.2 - Conversation guide end-of-period 1-on-1 meeting
+## ⬜ 7.2.2 - Guide for end-of-period 1-on-1 meeting
 _**Agenda points and guiding questions for individual coaching meeting to round off a period (Look back phase)**_
 
 ---

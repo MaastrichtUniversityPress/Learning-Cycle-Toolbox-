@@ -16,7 +16,7 @@ These tools are specifically designed to be used at the end of a learning cycle 
 ---
 ---
 
-## 🟦 TOOL 5.1 - Analysis and Reflection
+## 🟦 TOOL 5.1/6.1 - Analysis and Reflection
 
 _**Materials and guiding questions to support evaluating result and process, and to derive lessons learned**_
 
@@ -97,7 +97,7 @@ For competency X:
 ---
 ---
 
-## 🟦 TOOL 6.1 - Team Activities for Reflection / Derive lessons learned
+## 🟦 TOOL 5.2/6.2 - Team Activities for Reflection / Derive lessons learned
 
 _**Learning team activities to support evaluation of result and process, and to derive lessons learned**_<br/>
 

@@ -17,7 +17,7 @@ The goalsetting tools should be used right after task analysis and before diving
 ---
 ---
 
-## ⬛ TOOL 2.1.1 - Goalsetting guiding questions
+## ⬛ TOOL 2.1.1 - Goalsetting Guiding Questions
 
 _**Guiding questions to support goalsetting**_
 

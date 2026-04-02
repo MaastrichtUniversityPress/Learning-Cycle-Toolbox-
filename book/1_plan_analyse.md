@@ -31,7 +31,7 @@ _**Guiding questions to explore the APT**_
  
 **Step 3:**  After the learning team meeting, review the guiding questions for yourself. Use your answers as input for your personal goals and learning plan for this period, and to discuss with your learning team coach during your next 1-on-1meeting.
 
-For (focus)APT mapping (recommended as a next activity):   **See Tool 1.2**
+For (focus)APT mapping (recommended as a next activity):   [**See Tool 1.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/1_plan_analyse.html#tool-1-2-aptmapping)
 
 ---
 
@@ -86,7 +86,7 @@ _**Concept mapping as a technique to explore and navigate the APT**_
 #### How to use this tool?
 This tool can be used within the learning team and/or for self-study. It can be used to explore an overarching APT.
 
-**Step 1:** After group exploring of the APT (see tool 1.1), follow the provided questions for brainstorming and navigation. Customize or add new questions as necessary for your APT. Engage in a comprehensive discussion of the APT using the below questions. (Do not forget to rotate responsibilities for question selection among team members. Ensure everyone gets a chance to contribute to and lead discussions.)  
+**Step 1:** After group exploring of the APT [(see tool 1.1)](https://msaive.github.io/Learning-Cycle-Toolbox-/main/1_plan_analyse.html#tool-1-1-apt-analysis), follow the provided questions for brainstorming and navigation. Customize or add new questions as necessary for your APT. Engage in a comprehensive discussion of the APT using the below questions. (Do not forget to rotate responsibilities for question selection among team members. Ensure everyone gets a chance to contribute to and lead discussions.)  
   
 **Step 2:**  During or after the discussion, use the whiteboard or one of the online platforms to create your concept map (individually/in smaller group/whole group)
 

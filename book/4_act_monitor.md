@@ -41,8 +41,9 @@ This tool can be used within the learning team and/or within 1-on-1 meetings wit
 
 ---
 
-#### Step 1 – Monitor: Questions to check state of affairs (global overview)
+#### Step 1 – Monitor: Questions to check state of affairs
 
+To get a global overview:
 - Process: review  **learning plan**:  
         - **How are you**  doing/feeling?  
         - **Where** are you now? > What did you manage to do according to plan, what not?  
@@ -52,8 +53,9 @@ This tool can be used within the learning team and/or within 1-on-1 meetings wit
         - In terms of APT and period learning progress
         - In terms of personal learning goals
 
-#### Step 2 – Evaluate: Questions to evaluate actions so far (dig deeper)
+#### Step 2 – Evaluate: Questions to evaluate actions so far
 
+To dig deeper:
 - To debrief learning actions, the STARR interviewing technique can be used:  
         - **S=Situation**: What was the context? > Where?/Who?/When? (This might be less important here, because obvious.)<br> 
         - **T=Task**: What were you supposed to do? What was your learning goal / plan?  

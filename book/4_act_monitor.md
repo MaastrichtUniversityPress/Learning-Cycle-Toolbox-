@@ -83,7 +83,7 @@ To dig deeper:
 ---
 ---
 
-## 🟧 TOOL 4.2 - Team Activities to Support Monitoring
+## 🟧 TOOL 4.2 - Team Activities for Monitoring
 
 _**Learning team activities to support monitoring and adaptation of learning plans**_
 

@@ -31,7 +31,7 @@ This tool can be used within the learning team and/or for self-study in order to
 
 **Step 2:** Follow the suggested questions to discuss focus-APTs with your team and refine the APT map.
 
-Initial APT-mapping: **See Tool 1.2**
+Initial APT-mapping: [**See Tool 1.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/1_plan_analyse.html#tool-1-2-aptmapping)
 
 ---
 
@@ -79,9 +79,7 @@ Examples of focus-APT maps on whiteboard. Not to copy, just for inspiration. Not
 
 Resource / inspired by:  [Daley & Torre (2010). Concept maps in medical education: an analytical literature review.  _Medical Education, 44_: 440-448.](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2923.2010.03628.x)
 
-Example:[https://app.mural.co/invitation/mural/bamedlearningteams0326/1659356731269?sender=u51788510657a0338b6417044&key=e6b82d65-158c-4a27-96b1-318e6df0410a](https://app.mural.co/invitation/mural/bamedlearningteams0326/1659356731269?sender=u51788510657a0338b6417044&key=e6b82d65-158c-4a27-96b1-318e6df0410a)
-
-See  **Tool 1.2** for initial APT-mapping.</br><br/>
+Example:[https://app.mural.co/invitation/mural/bamedlearningteams0326/1659356731269?sender=u51788510657a0338b6417044&key=e6b82d65-158c-4a27-96b1-318e6df0410a](https://app.mural.co/invitation/mural/bamedlearningteams0326/1659356731269?sender=u51788510657a0338b6417044&key=e6b82d65-158c-4a27-96b1-318e6df0410a)</br><br/>
 
 ---
 ---
@@ -99,7 +97,7 @@ This tool can be used within the learning team and/or for self-study.
 For use in a learning team meeting, one or two students could be assigned the task to select (and edit) a case and bring it to the meeting. The tool guides you where to find cases.  
 **Step 2a OR 2b:**  Discuss the case within your learning team or use the case for self-evaluation. The tool provides suggestion how to do this.
 
-Interested in using AI to generate medical cases? **See tool 3.3**
+Interested in using AI to generate medical cases? [**See tool 3.3**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-3-using-ai-to-generate-medical-cases)
 
 ---
 
@@ -199,7 +197,7 @@ _**A tool to create cases to challenge your knowledge**_
 This tool can be used within the learning team and/or for self-study.  
 **Step 1:**  Create an appropriate case using AI.  
 For use in a learning team meeting, one or two students could be assigned the task to create a case and bring it to the meeting. The tool guides you how to create them.  
-**Step 2:**  Discuss the case within your learning team or use the case for self-evaluation (**See tool 3.2** for directions how to use medical cases for deep learning).
+**Step 2:**  Discuss the case within your learning team or use the case for self-evaluation ([**See tool 3.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning) for directions how to use medical cases for deep learning).
 
 ---
 

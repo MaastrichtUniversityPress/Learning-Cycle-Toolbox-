@@ -32,9 +32,9 @@ _The PDF of this tool can be downloaded here:_
 
 This picture may be used for personal reference or to use as visual aid in discussions about the learning cycle.
 
-For a version with prompting questions for the learning team:  **See tool 0.2**
+For a version with prompting questions for the learning team:  [**See tool 0.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/CYCLE.html#tool-0-2-learning-cycle-for-the-learning-team)
 
-For a version with prompting questions for the individual student:  **See tool 0.3**
+For a version with prompting questions for the individual student:  [**See tool 0.3**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/CYCLE.html#tool-0-3-learning-cycle-for-the-individual-student)
 
 ---
 

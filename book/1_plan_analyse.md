@@ -77,7 +77,7 @@ Resource / inspired by:  [de Boer et al. (2021), Perspective-based generic quest
 ---
 ---
 
-## ⬛ TOOL 1.2 - APT–Mapping
+## ⬛ TOOL 1.2 - APT Mapping
 
 _**Concept mapping as a technique to explore and navigate the APT**_
 

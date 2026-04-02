@@ -97,7 +97,7 @@ For competency X:
 ---
 ---
 
-## 🟦 TOOL 5.2/6.2 - Team Activities for Reflection / Derive lessons learned
+## 🟦 TOOL 5.2/6.2 - Team Activities for Reflection
 
 _**Learning team activities to support evaluation of result and process, and to derive lessons learned**_<br/>
 

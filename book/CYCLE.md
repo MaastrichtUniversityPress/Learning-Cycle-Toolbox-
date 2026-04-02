@@ -17,7 +17,7 @@ These tools may also be used for your personal reference, or as a visual aid in 
 ---
 ---
 
-## ⭕ TOOL 0.1 - Learning cycle visual
+## ⭕ TOOL 0.1 - Learning Cycle Visual
 
 **_A visual representation of the learning cycle model, for reference purposes_**
 
@@ -45,7 +45,7 @@ For a version with prompting questions for the individual student:  [**See tool 
 ---
 ---
 
-## ⭕ TOOL 0.2 - Learning cycle for learning team
+## ⭕ TOOL 0.2 - Learning Cycle for Learning Team
 
 **_A visual representation of the learning cycle model, with discussion prompts for the learning team_**
 
@@ -73,7 +73,7 @@ For a version with prompting questions for the individual student:  **See tool 0
 ---
 ---
 
-## ⭕ TOOL 0.3 - Learning cycle for student
+## ⭕ TOOL 0.3 - Learning Cycle for Student
 
 **_A visual representation of the learning cycle model, with discussion prompts for the individual student_**
 

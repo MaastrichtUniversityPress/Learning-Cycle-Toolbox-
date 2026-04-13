@@ -1,3 +1,4 @@
+# **Colophon**
 ## **Learning Cycle Toolbox**
 Judith Sieben | Maastricht University  
 Sylvia Heeneman | Maastricht University  
@@ -12,7 +13,7 @@ Peer reviewers: Loes van Bokhoven, Joost van Wijchen
 **Published by:**  [Maastricht University Press](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/)  | Maastricht University, The Netherlands  
 **Version:**  1.0.0  
 **Publication date:**  April 2026  
-**DOI:**  _[Add upon registration]_
+**DOI:**  [10.26481/mup.2608](https://doi.org/10.26481/mup.2608)
 
 <img width="150" alt="ccbysa" src="https://github.com/user-attachments/assets/ea499de3-4817-426e-898c-b567c50358db" />
 

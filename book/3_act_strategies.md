@@ -31,7 +31,7 @@ This tool can be used within the learning team and/or for self-study in order to
 
 **Step 2:** Follow the suggested questions to discuss focus-APTs with your team and refine the APT map.
 
-Initial APT-mapping: [**See Tool 1.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/1_plan_analyse.html#tool-1-2-aptmapping)
+Initial APT-mapping: [**See Tool 1.2**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/1_plan_analyse.html#tool-1-2-aptmapping)
 
 ---
 

@@ -59,7 +59,7 @@ This tool can be used within the learning team and/or within 1-on-1 meetings wit
     -   From negative association: neglecting or postponing
 -   Which goals are most important? >  **Prioritize**  and create a realistic list
 
-Convert goals to  **SMART action plans**  that can be implemented this period: [**See Tool 2.1.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/2_plan_goals.html#tool-2-1-2-smart-learning-goals)</br><br/>
+Convert goals to  **SMART action plans**  that can be implemented this period: [**See Tool 2.1.2**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/2_plan_goals.html#tool-2-1-2-smart-learning-goals)</br><br/>
 
 ---
 ---
@@ -439,7 +439,7 @@ Learning teams create their own planning for a period. This tool provides direct
     -   Start by browsing and prediscuss the  **learning tasks**.
     -   Create an inventory of  **learning goals**  and  **topics**  to discuss.
     -   **Prioritise**,  **order**  and  **spread**  topics over meetings.
-    -   Choose  **formats/activities**  to work on these topics:  [**See tool 7.1**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/7_meeting_guides.html#tool-7-1-how-to-structure-a-learning-team-meeting) (How to structure a Learning Team Meeting) for suggestions.
+    -   Choose  **formats/activities**  to work on these topics:  [**See tool 7.1**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/7_meeting_guides.html#tool-7-1-how-to-structure-a-learning-team-meeting) (How to structure a Learning Team Meeting) for suggestions.
 -   **Starters’ tip:**  To overcome “starting paralysis” specify the plan for next one or twee meetings only, get going and refine from there based on your experiences.
 -   **Review** your plan together with your coach:
     -   Did you forget anything? (monitoring activities, team dynamics evaluation!)

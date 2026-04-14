@@ -97,7 +97,7 @@ This tool can be used within the learning team and/or for self-study.
 For use in a learning team meeting, one or two students could be assigned the task to select (and edit) a case and bring it to the meeting. The tool guides you where to find cases.  
 **Step 2a OR 2b:**  Discuss the case within your learning team or use the case for self-evaluation. The tool provides suggestion how to do this.
 
-Interested in using AI to generate medical cases? [**See tool 3.3**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-3-using-ai-to-generate-medical-cases)
+Interested in using AI to generate medical cases? [**See tool 3.3**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-3-using-ai-to-generate-medical-cases)
 
 ---
 
@@ -197,7 +197,7 @@ _**A tool to generate cases to challenge your knowledge**_
 This tool can be used within the learning team and/or for self-study.  
 **Step 1:**  Create an appropriate case using AI.  
 For use in a learning team meeting, one or two students could be assigned the task to create a case and bring it to the meeting. The tool guides you how to create them.  
-**Step 2:**  Discuss the case within your learning team or use the case for self-evaluation ([**See tool 3.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning) for directions how to use medical cases for deep learning).
+**Step 2:**  Discuss the case within your learning team or use the case for self-evaluation ([**See tool 3.2**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning) for directions how to use medical cases for deep learning).
 
 ---
 

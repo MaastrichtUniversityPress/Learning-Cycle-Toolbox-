@@ -16,7 +16,7 @@ These tools are useful for self-observation during the “Act” phase, where yo
 Use these tools regularly throughout the “Act” phase, especially after completing key stages of the APT or (personal) learning goal or when encountering obstacles. Regular progress checks allow you to catch potential issues early, making it easier to adapt your plan without losing drive. Revisit these tools anytime your progress stalls, if you feel the need to optimize your approach, to check whether you are not missing any aspects of the task, to meet deadlines or performance objectives more effectively.
 
 ### Which tools are available?
-Besides the tools below, the tool in part 3 [(ACT - Complete task)](https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#act-complete-task) are also useful for this purpose.
+Besides the tools below, the tool in part 3 [(ACT - Complete task)](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#act-complete-task) are also useful for this purpose.
 <br/><br/>
 
 ---
@@ -115,8 +115,8 @@ NB: These suggestions are just for inspiration. Be creative! (and additional sug
         -  Multidisciplinary health care meeting  
         -  Clinical patient discussion (“overdracht”)  
         -  Other parts of APT or POs
--   Collaborative generate and discuss “what if questions” > see also [**Tool 3.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning)
--   Use a (medical) case to apply newly gained insights to > see also [**Tool 3.2**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning)
+-   Collaborative generate and discuss “what if questions” > see also [**Tool 3.2**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning)
+-   Use a (medical) case to apply newly gained insights to > see also [**Tool 3.2**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/3_act_strategies.html#tool-3-2-using-medical-cases-for-deep-learning)
 -   Collaborative developing and applying peer-feedback rubrics
 
 #### Step 2 – Evaluate & Adapt: share & advice formats

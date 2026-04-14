@@ -15,7 +15,7 @@ These tools provide structure to meetings and help set the agenda for the differ
 These tools are specifically designed to be used during the different meeting types. There is one tool for the learning team meeting, one for the short 1-on-1 meeting and one for the long 1-on-1 meeting.
 
 ### Which tools are available?
-Besides the tools below, the [**tool 2.3**](https://msaive.github.io/Learning-Cycle-Toolbox-/main/2_plan_goals.html#tool-2-3-team-plan-for-a-period) (Make a team plan for a period)  is also useful for this purpose.<br/><br/>
+Besides the tools below, the [**tool 2.3**](https://maastrichtuniversitypress.github.io/Learning-Cycle-Toolbox-/main/2_plan_goals.html#tool-2-3-team-plan-for-a-period) (Make a team plan for a period)  is also useful for this purpose.<br/><br/>
 
 ---
 ---

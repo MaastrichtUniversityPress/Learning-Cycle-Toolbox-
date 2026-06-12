@@ -4,7 +4,7 @@ Judith Sieben | Maastricht University
 Sylvia Heeneman | Maastricht University  
 Mascha Verheggen | Maastricht University  
 Fatemeh Janesarvatan | Maastricht University  
-Joost van Wijchen | Western Norway University of Applied Sciences (HVL)
+Joost van Wijchen | Western Norway University of Applied Sciences (HVL) </br>
 Loes van Bokhoven | Maastricht University  
 Anique de Bruin | Maastricht University
 

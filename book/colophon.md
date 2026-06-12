@@ -4,11 +4,9 @@ Judith Sieben | Maastricht University
 Sylvia Heeneman | Maastricht University  
 Mascha Verheggen | Maastricht University  
 Fatemeh Janesarvatan | Maastricht University  
-Joost van Wijchen | Maastricht University  
+Joost van Wijchen | Western Norway University of Applied Sciences (HVL)
 Loes van Bokhoven | Maastricht University  
 Anique de Bruin | Maastricht University
-
-Peer reviewers: Loes van Bokhoven, Joost van Wijchen
 
 **Published by:**  [Maastricht University Press](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/)  | Maastricht University, The Netherlands  
 **Version:**  1.0.0  
